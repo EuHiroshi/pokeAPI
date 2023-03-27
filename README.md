@@ -3,5 +3,5 @@
 Em andamento
 
 Objetivos:
-Criar uma pokedex da 1 geração
+Criar uma pokedex da 1 geração, 
 Implementar CSS e HTML
