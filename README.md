@@ -4,4 +4,5 @@ Em andamento
 
 Objetivos:
 Criar uma pokedex da 1 geração, 
-Implementar CSS e HTML
+Implementar CSS e HTML, 
+Batalha de pokemons
