@@ -8,10 +8,22 @@ class pokemon {
                 .then( res => {
                     return res.json()
                 });
-            const createJson = await writeFile('pokemons.json', JSON.stringify(pokeApi, null, 2))
+            const pokemonsJson = await writeFile('pokemons.json', JSON.stringify(pokeApi, null, 2))
             
         } catch (error) {
             console.log('erro')
+        }
+    }
+
+    async getPokemon(nomePokemon) {
+        try {
+            const pokemonList = await fetch(`https://pokeapi.co/api/v2/pokemon/${nomePokemon}`)
+                .then( res => {
+                    return res.json()
+                });
+                const pokemonListJson = await writeFile('pokemonList.json', JSON.stringify(pokemonList, null, 2))
+        } catch (error) {
+            
         }
     }
 }
