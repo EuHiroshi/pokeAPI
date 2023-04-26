@@ -17,5 +17,8 @@
     "url": "https://github.com/EuHiroshi/pokeAPI/issues"
   },
   "homepage": "https://github.com/EuHiroshi/pokeAPI#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
