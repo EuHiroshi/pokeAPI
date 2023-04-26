@@ -1,4 +1,4 @@
-import pokemon from './requests.js'
+import pokemon from './utils/requests.js'
 
 async function main() {
     pokemon.getApi()
