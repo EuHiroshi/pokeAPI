@@ -2,20 +2,8 @@
   {
     "name": "bulbasaur",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "grass",
-          "url": "https://pokeapi.co/api/v2/type/12/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "grass",
+      "poison"
     ],
     "status": [
       {
@@ -47,29 +35,17 @@
     "height": 7,
     "weight": 69,
     "moves": [
-      "round",
-      "attract",
-      "outrage",
-      "substitute"
+      "rage",
+      "power-whip",
+      "fury-cutter",
+      "string-shot"
     ]
   },
   {
     "name": "ivysaur",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "grass",
-          "url": "https://pokeapi.co/api/v2/type/12/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "grass",
+      "poison"
     ],
     "status": [
       {
@@ -101,29 +77,17 @@
     "height": 10,
     "weight": 130,
     "moves": [
-      "toxic",
-      "swagger",
-      "power-whip",
-      "sludge-bomb"
+      "venoshock",
+      "bind",
+      "growth",
+      "vine-whip"
     ]
   },
   {
     "name": "venusaur",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "grass",
-          "url": "https://pokeapi.co/api/v2/type/12/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "grass",
+      "poison"
     ],
     "status": [
       {
@@ -155,22 +119,16 @@
     "height": 20,
     "weight": 1000,
     "moves": [
-      "protect",
-      "stomping-tantrum",
-      "snore",
-      "worry-seed"
+      "take-down",
+      "earthquake",
+      "strength",
+      "razor-leaf"
     ]
   },
   {
     "name": "charmander",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fire",
-          "url": "https://pokeapi.co/api/v2/type/10/"
-        }
-      }
+      "fire"
     ],
     "status": [
       {
@@ -202,22 +160,16 @@
     "height": 6,
     "weight": 85,
     "moves": [
-      "aerial-ace",
-      "attract",
-      "fury-cutter",
-      "iron-tail"
+      "flare-blitz",
+      "rage",
+      "ember",
+      "protect"
     ]
   },
   {
     "name": "charmeleon",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fire",
-          "url": "https://pokeapi.co/api/v2/type/10/"
-        }
-      }
+      "fire"
     ],
     "status": [
       {
@@ -249,29 +201,17 @@
     "height": 11,
     "weight": 190,
     "moves": [
-      "leer",
-      "facade",
-      "slash",
-      "false-swipe"
+      "curse",
+      "bide",
+      "fire-spin",
+      "mud-slap"
     ]
   },
   {
     "name": "charizard",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fire",
-          "url": "https://pokeapi.co/api/v2/type/10/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "fire",
+      "flying"
     ],
     "status": [
       {
@@ -303,22 +243,16 @@
     "height": 17,
     "weight": 905,
     "moves": [
-      "mega-punch",
-      "beat-up",
-      "curse",
-      "ember"
+      "roost",
+      "metal-claw",
+      "helping-hand",
+      "breaking-swipe"
     ]
   },
   {
     "name": "squirtle",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -350,22 +284,16 @@
     "height": 5,
     "weight": 90,
     "moves": [
-      "round",
-      "curse",
-      "haze",
-      "scald"
+      "defense-curl",
+      "waterfall",
+      "mega-kick",
+      "counter"
     ]
   },
   {
     "name": "wartortle",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -397,22 +325,16 @@
     "height": 10,
     "weight": 225,
     "moves": [
-      "ice-beam",
-      "withdraw",
-      "dragon-pulse",
-      "protect"
+      "bubble-beam",
+      "shell-smash",
+      "counter",
+      "rock-tomb"
     ]
   },
   {
     "name": "blastoise",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -444,22 +366,16 @@
     "height": 16,
     "weight": 855,
     "moves": [
-      "confide",
-      "protect",
-      "brick-break",
-      "protect"
+      "reflect",
+      "scald",
+      "bide",
+      "water-pulse"
     ]
   },
   {
     "name": "caterpie",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "bug",
-          "url": "https://pokeapi.co/api/v2/type/7/"
-        }
-      }
+      "bug"
     ],
     "status": [
       {
@@ -491,22 +407,16 @@
     "height": 3,
     "weight": 29,
     "moves": [
+      "snore",
       "string-shot",
-      "tackle",
       "string-shot",
-      "electroweb"
+      "string-shot"
     ]
   },
   {
     "name": "metapod",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "bug",
-          "url": "https://pokeapi.co/api/v2/type/7/"
-        }
-      }
+      "bug"
     ],
     "status": [
       {
@@ -538,29 +448,17 @@
     "height": 7,
     "weight": 99,
     "moves": [
+      "bug-bite",
       "string-shot",
       "harden",
-      "iron-defense",
-      "harden"
+      "string-shot"
     ]
   },
   {
     "name": "butterfree",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "bug",
-          "url": "https://pokeapi.co/api/v2/type/7/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "bug",
+      "flying"
     ],
     "status": [
       {
@@ -592,29 +490,17 @@
     "height": 11,
     "weight": 320,
     "moves": [
-      "giga-impact",
       "draining-kiss",
-      "mega-drain",
-      "swift"
+      "venoshock",
+      "supersonic",
+      "supersonic"
     ]
   },
   {
     "name": "weedle",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "bug",
-          "url": "https://pokeapi.co/api/v2/type/7/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "bug",
+      "poison"
     ],
     "status": [
       {
@@ -646,29 +532,17 @@
     "height": 3,
     "weight": 32,
     "moves": [
-      "bug-bite",
+      "string-shot",
+      "string-shot",
       "poison-sting",
-      "electroweb",
-      "poison-sting"
+      "bug-bite"
     ]
   },
   {
     "name": "kakuna",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "bug",
-          "url": "https://pokeapi.co/api/v2/type/7/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "bug",
+      "poison"
     ],
     "status": [
       {
@@ -700,29 +574,17 @@
     "height": 6,
     "weight": 100,
     "moves": [
+      "string-shot",
       "bug-bite",
-      "harden",
-      "iron-defense",
-      "harden"
+      "string-shot",
+      "bug-bite"
     ]
   },
   {
     "name": "beedrill",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "bug",
-          "url": "https://pokeapi.co/api/v2/type/7/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "bug",
+      "poison"
     ],
     "status": [
       {
@@ -754,29 +616,17 @@
     "height": 10,
     "weight": 295,
     "moves": [
-      "solar-beam",
-      "electroweb",
-      "swift",
-      "double-edge"
+      "silver-wind",
+      "endeavor",
+      "assurance",
+      "secret-power"
     ]
   },
   {
     "name": "pidgey",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "normal",
+      "flying"
     ],
     "status": [
       {
@@ -808,29 +658,17 @@
     "height": 3,
     "weight": 18,
     "moves": [
-      "razor-wind",
-      "air-cutter",
-      "return",
-      "captivate"
+      "air-slash",
+      "headbutt",
+      "sleep-talk",
+      "mimic"
     ]
   },
   {
     "name": "pidgeotto",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "normal",
+      "flying"
     ],
     "status": [
       {
@@ -862,29 +700,17 @@
     "height": 11,
     "weight": 300,
     "moves": [
-      "work-up",
-      "quick-attack",
-      "feather-dance",
-      "mimic"
+      "uproar",
+      "agility",
+      "swagger",
+      "roost"
     ]
   },
   {
     "name": "pidgeot",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "normal",
+      "flying"
     ],
     "status": [
       {
@@ -916,22 +742,16 @@
     "height": 15,
     "weight": 395,
     "moves": [
-      "round",
-      "agility",
-      "rage",
-      "sand-attack"
+      "hidden-power",
+      "tailwind",
+      "sunny-day",
+      "work-up"
     ]
   },
   {
     "name": "rattata",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      }
+      "normal"
     ],
     "status": [
       {
@@ -963,22 +783,16 @@
     "height": 3,
     "weight": 35,
     "moves": [
-      "pursuit",
-      "rock-smash",
-      "mimic",
-      "me-first"
+      "headbutt",
+      "hidden-power",
+      "u-turn",
+      "pluck"
     ]
   },
   {
     "name": "raticate",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      }
+      "normal"
     ],
     "status": [
       {
@@ -1010,29 +824,17 @@
     "height": 7,
     "weight": 185,
     "moves": [
-      "rage",
-      "bite",
-      "bite",
-      "icy-wind"
+      "quick-attack",
+      "rock-smash",
+      "double-edge",
+      "thunder-wave"
     ]
   },
   {
     "name": "spearow",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "normal",
+      "flying"
     ],
     "status": [
       {
@@ -1064,29 +866,17 @@
     "height": 3,
     "weight": 20,
     "moves": [
-      "thief",
-      "heat-wave",
-      "aerial-ace",
-      "rain-dance"
+      "headbutt",
+      "defog",
+      "rain-dance",
+      "assurance"
     ]
   },
   {
     "name": "fearow",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "normal",
+      "flying"
     ],
     "status": [
       {
@@ -1118,22 +908,16 @@
     "height": 12,
     "weight": 380,
     "moves": [
+      "mud-slap",
       "sleep-talk",
-      "hidden-power",
-      "snore",
-      "air-cutter"
+      "ominous-wind",
+      "tri-attack"
     ]
   },
   {
     "name": "ekans",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "poison"
     ],
     "status": [
       {
@@ -1165,22 +949,16 @@
     "height": 20,
     "weight": 69,
     "moves": [
-      "rock-tomb",
-      "substitute",
-      "iron-tail",
-      "poison-fang"
+      "bide",
+      "earthquake",
+      "poison-tail",
+      "poison-sting"
     ]
   },
   {
     "name": "arbok",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "poison"
     ],
     "status": [
       {
@@ -1212,22 +990,16 @@
     "height": 35,
     "weight": 650,
     "moves": [
-      "frustration",
-      "spite",
-      "attract",
-      "sucker-punch"
+      "crunch",
+      "body-slam",
+      "body-slam",
+      "venoshock"
     ]
   },
   {
     "name": "pikachu",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "electric",
-          "url": "https://pokeapi.co/api/v2/type/13/"
-        }
-      }
+      "electric"
     ],
     "status": [
       {
@@ -1259,22 +1031,16 @@
     "height": 4,
     "weight": 60,
     "moves": [
-      "double-edge",
+      "disarming-voice",
+      "natural-gift",
       "thunder-punch",
-      "seismic-toss",
-      "flash"
+      "shock-wave"
     ]
   },
   {
     "name": "raichu",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "electric",
-          "url": "https://pokeapi.co/api/v2/type/13/"
-        }
-      }
+      "electric"
     ],
     "status": [
       {
@@ -1306,22 +1072,16 @@
     "height": 8,
     "weight": 300,
     "moves": [
-      "trailblaze",
-      "nuzzle",
-      "helping-hand",
-      "electro-ball"
+      "protect",
+      "sweet-kiss",
+      "feint",
+      "brick-break"
     ]
   },
   {
     "name": "sandshrew",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "ground",
-          "url": "https://pokeapi.co/api/v2/type/5/"
-        }
-      }
+      "ground"
     ],
     "status": [
       {
@@ -1353,22 +1113,16 @@
     "height": 6,
     "weight": 120,
     "moves": [
-      "thief",
-      "rapid-spin",
-      "secret-power",
-      "skull-bash"
+      "double-team",
+      "sandstorm",
+      "steel-roller",
+      "swagger"
     ]
   },
   {
     "name": "sandslash",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "ground",
-          "url": "https://pokeapi.co/api/v2/type/5/"
-        }
-      }
+      "ground"
     ],
     "status": [
       {
@@ -1400,22 +1154,16 @@
     "height": 10,
     "weight": 295,
     "moves": [
-      "magnitude",
-      "double-edge",
-      "round",
-      "skull-bash"
+      "dig",
+      "double-team",
+      "sleep-talk",
+      "submission"
     ]
   },
   {
     "name": "nidoran-f",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "poison"
     ],
     "status": [
       {
@@ -1447,22 +1195,16 @@
     "height": 4,
     "weight": 70,
     "moves": [
-      "skull-bash",
-      "rain-dance",
-      "flatter",
-      "poison-sting"
+      "focus-energy",
+      "double-edge",
+      "facade",
+      "mimic"
     ]
   },
   {
     "name": "nidorina",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "poison"
     ],
     "status": [
       {
@@ -1495,28 +1237,16 @@
     "weight": 200,
     "moves": [
       "substitute",
-      "secret-power",
-      "toxic",
-      "water-pulse"
+      "fury-swipes",
+      "water-pulse",
+      "rage"
     ]
   },
   {
     "name": "nidoqueen",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "ground",
-          "url": "https://pokeapi.co/api/v2/type/5/"
-        }
-      }
+      "poison",
+      "ground"
     ],
     "status": [
       {
@@ -1548,22 +1278,16 @@
     "height": 13,
     "weight": 600,
     "moves": [
-      "bide",
+      "headbutt",
       "sandstorm",
-      "brick-break",
-      "quash"
+      "beat-up",
+      "fury-swipes"
     ]
   },
   {
     "name": "nidoran-m",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "poison"
     ],
     "status": [
       {
@@ -1595,22 +1319,16 @@
     "height": 5,
     "weight": 90,
     "moves": [
-      "fury-attack",
-      "headbutt",
-      "rest",
-      "hidden-power"
+      "shadow-claw",
+      "hone-claws",
+      "toxic-spikes",
+      "sleep-talk"
     ]
   },
   {
     "name": "nidorino",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "poison"
     ],
     "status": [
       {
@@ -1642,29 +1360,17 @@
     "height": 9,
     "weight": 195,
     "moves": [
-      "rain-dance",
-      "bubble-beam",
-      "super-fang",
-      "substitute"
+      "skull-bash",
+      "ice-beam",
+      "reflect",
+      "shadow-claw"
     ]
   },
   {
     "name": "nidoking",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "ground",
-          "url": "https://pokeapi.co/api/v2/type/5/"
-        }
-      }
+      "poison",
+      "ground"
     ],
     "status": [
       {
@@ -1696,22 +1402,16 @@
     "height": 14,
     "weight": 620,
     "moves": [
-      "venom-drench",
-      "confide",
-      "echoed-voice",
-      "dig"
+      "hyper-beam",
+      "fissure",
+      "brick-break",
+      "stomping-tantrum"
     ]
   },
   {
     "name": "clefairy",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fairy",
-          "url": "https://pokeapi.co/api/v2/type/18/"
-        }
-      }
+      "fairy"
     ],
     "status": [
       {
@@ -1743,22 +1443,16 @@
     "height": 6,
     "weight": 75,
     "moves": [
-      "bounce",
-      "mystical-fire",
-      "rage",
-      "stored-power"
+      "strength",
+      "protect",
+      "rain-dance",
+      "signal-beam"
     ]
   },
   {
     "name": "clefable",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fairy",
-          "url": "https://pokeapi.co/api/v2/type/18/"
-        }
-      }
+      "fairy"
     ],
     "status": [
       {
@@ -1790,22 +1484,16 @@
     "height": 13,
     "weight": 400,
     "moves": [
-      "dazzling-gleam",
-      "magic-coat",
-      "encore",
-      "facade"
+      "last-resort",
+      "snore",
+      "teleport",
+      "dream-eater"
     ]
   },
   {
     "name": "vulpix",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fire",
-          "url": "https://pokeapi.co/api/v2/type/10/"
-        }
-      }
+      "fire"
     ],
     "status": [
       {
@@ -1837,22 +1525,16 @@
     "height": 6,
     "weight": 99,
     "moves": [
-      "double-team",
-      "natural-gift",
-      "spite",
-      "double-team"
+      "grudge",
+      "curse",
+      "tail-whip",
+      "substitute"
     ]
   },
   {
     "name": "ninetales",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fire",
-          "url": "https://pokeapi.co/api/v2/type/10/"
-        }
-      }
+      "fire"
     ],
     "status": [
       {
@@ -1884,29 +1566,17 @@
     "height": 11,
     "weight": 199,
     "moves": [
-      "nasty-plot",
+      "take-down",
       "shadow-ball",
-      "foul-play",
-      "covet"
+      "substitute",
+      "weather-ball"
     ]
   },
   {
     "name": "jigglypuff",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "fairy",
-          "url": "https://pokeapi.co/api/v2/type/18/"
-        }
-      }
+      "normal",
+      "fairy"
     ],
     "status": [
       {
@@ -1938,29 +1608,17 @@
     "height": 5,
     "weight": 55,
     "moves": [
-      "substitute",
-      "swift",
-      "disarming-voice",
-      "facade"
+      "brick-break",
+      "sing",
+      "psychic",
+      "double-edge"
     ]
   },
   {
     "name": "wigglytuff",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "fairy",
-          "url": "https://pokeapi.co/api/v2/type/18/"
-        }
-      }
+      "normal",
+      "fairy"
     ],
     "status": [
       {
@@ -1992,29 +1650,17 @@
     "height": 10,
     "weight": 120,
     "moves": [
-      "captivate",
-      "sweet-kiss",
-      "sleep-talk",
-      "snatch"
+      "metronome",
+      "gravity",
+      "reflect",
+      "double-team"
     ]
   },
   {
     "name": "zubat",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "poison",
+      "flying"
     ],
     "status": [
       {
@@ -2046,29 +1692,17 @@
     "height": 8,
     "weight": 75,
     "moves": [
-      "bite",
-      "gust",
-      "bide",
-      "captivate"
+      "venom-drench",
+      "acrobatics",
+      "roost",
+      "poison-fang"
     ]
   },
   {
     "name": "golbat",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "poison",
+      "flying"
     ],
     "status": [
       {
@@ -2100,29 +1734,17 @@
     "height": 16,
     "weight": 550,
     "moves": [
-      "haze",
-      "mimic",
-      "swift",
-      "bite"
+      "round",
+      "assurance",
+      "agility",
+      "defog"
     ]
   },
   {
     "name": "oddish",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "grass",
-          "url": "https://pokeapi.co/api/v2/type/12/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "grass",
+      "poison"
     ],
     "status": [
       {
@@ -2154,29 +1776,17 @@
     "height": 5,
     "weight": 54,
     "moves": [
-      "venoshock",
-      "double-team",
-      "moonblast",
-      "growth"
+      "mega-drain",
+      "poison-powder",
+      "petal-dance",
+      "bullet-seed"
     ]
   },
   {
     "name": "gloom",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "grass",
-          "url": "https://pokeapi.co/api/v2/type/12/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "grass",
+      "poison"
     ],
     "status": [
       {
@@ -2208,29 +1818,17 @@
     "height": 8,
     "weight": 86,
     "moves": [
-      "substitute",
-      "reflect",
-      "sludge-bomb",
-      "grass-knot"
+      "moonlight",
+      "solar-beam",
+      "double-team",
+      "seed-bomb"
     ]
   },
   {
     "name": "vileplume",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "grass",
-          "url": "https://pokeapi.co/api/v2/type/12/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "grass",
+      "poison"
     ],
     "status": [
       {
@@ -2262,29 +1860,17 @@
     "height": 12,
     "weight": 186,
     "moves": [
-      "stun-spore",
-      "bullet-seed",
-      "after-you",
-      "energy-ball"
+      "facade",
+      "endure",
+      "aromatherapy",
+      "secret-power"
     ]
   },
   {
     "name": "paras",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "bug",
-          "url": "https://pokeapi.co/api/v2/type/7/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "grass",
-          "url": "https://pokeapi.co/api/v2/type/12/"
-        }
-      }
+      "bug",
+      "grass"
     ],
     "status": [
       {
@@ -2316,29 +1902,17 @@
     "height": 3,
     "weight": 54,
     "moves": [
-      "x-scissor",
-      "body-slam",
-      "light-screen",
+      "synthesis",
+      "aerial-ace",
+      "flash",
       "leech-life"
     ]
   },
   {
     "name": "parasect",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "bug",
-          "url": "https://pokeapi.co/api/v2/type/7/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "grass",
-          "url": "https://pokeapi.co/api/v2/type/12/"
-        }
-      }
+      "bug",
+      "grass"
     ],
     "status": [
       {
@@ -2370,29 +1944,17 @@
     "height": 10,
     "weight": 295,
     "moves": [
-      "solar-beam",
-      "cross-poison",
-      "bide",
-      "captivate"
+      "return",
+      "mega-drain",
+      "hidden-power",
+      "attract"
     ]
   },
   {
     "name": "venonat",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "bug",
-          "url": "https://pokeapi.co/api/v2/type/7/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "bug",
+      "poison"
     ],
     "status": [
       {
@@ -2424,29 +1986,17 @@
     "height": 10,
     "weight": 300,
     "moves": [
-      "bide",
-      "confuse-ray",
-      "confide",
-      "skill-swap"
+      "flash",
+      "curse",
+      "toxic",
+      "supersonic"
     ]
   },
   {
     "name": "venomoth",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "bug",
-          "url": "https://pokeapi.co/api/v2/type/7/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "bug",
+      "poison"
     ],
     "status": [
       {
@@ -2478,22 +2028,16 @@
     "height": 15,
     "weight": 125,
     "moves": [
-      "hidden-power",
-      "captivate",
-      "sleep-powder",
-      "mega-drain"
+      "defog",
+      "secret-power",
+      "quiver-dance",
+      "toxic"
     ]
   },
   {
     "name": "diglett",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "ground",
-          "url": "https://pokeapi.co/api/v2/type/5/"
-        }
-      }
+      "ground"
     ],
     "status": [
       {
@@ -2525,22 +2069,16 @@
     "height": 2,
     "weight": 8,
     "moves": [
-      "reversal",
-      "attract",
-      "mud-bomb",
-      "rest"
+      "snore",
+      "scratch",
+      "return",
+      "captivate"
     ]
   },
   {
     "name": "dugtrio",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "ground",
-          "url": "https://pokeapi.co/api/v2/type/5/"
-        }
-      }
+      "ground"
     ],
     "status": [
       {
@@ -2572,22 +2110,16 @@
     "height": 7,
     "weight": 333,
     "moves": [
-      "rest",
-      "scorching-sands",
-      "rock-blast",
-      "hyper-beam"
+      "echoed-voice",
+      "foul-play",
+      "secret-power",
+      "rock-smash"
     ]
   },
   {
     "name": "meowth",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      }
+      "normal"
     ],
     "status": [
       {
@@ -2619,22 +2151,16 @@
     "height": 4,
     "weight": 42,
     "moves": [
-      "captivate",
-      "slash",
-      "sunny-day",
-      "double-edge"
+      "snore",
+      "screech",
+      "bubble-beam",
+      "psych-up"
     ]
   },
   {
     "name": "persian",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      }
+      "normal"
     ],
     "status": [
       {
@@ -2666,22 +2192,16 @@
     "height": 10,
     "weight": 320,
     "moves": [
-      "toxic",
-      "echoed-voice",
-      "embargo",
-      "psych-up"
+      "hyper-voice",
+      "roar",
+      "facade",
+      "swagger"
     ]
   },
   {
     "name": "psyduck",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -2713,22 +2233,16 @@
     "height": 8,
     "weight": 196,
     "moves": [
-      "simple-beam",
-      "hydro-pump",
-      "tail-whip",
-      "sleep-talk"
+      "encore",
+      "sleep-talk",
+      "hidden-power",
+      "synchronoise"
     ]
   },
   {
     "name": "golduck",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -2760,22 +2274,16 @@
     "height": 17,
     "weight": 766,
     "moves": [
-      "low-sweep",
-      "mud-shot",
-      "giga-impact",
-      "natural-gift"
+      "captivate",
+      "whirlpool",
+      "rock-smash",
+      "mud-shot"
     ]
   },
   {
     "name": "mankey",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fighting",
-          "url": "https://pokeapi.co/api/v2/type/2/"
-        }
-      }
+      "fighting"
     ],
     "status": [
       {
@@ -2807,22 +2315,16 @@
     "height": 5,
     "weight": 280,
     "moves": [
-      "thunder-punch",
-      "revenge",
-      "rock-slide",
-      "poison-jab"
+      "meditate",
+      "double-team",
+      "night-slash",
+      "rest"
     ]
   },
   {
     "name": "primeape",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fighting",
-          "url": "https://pokeapi.co/api/v2/type/2/"
-        }
-      }
+      "fighting"
     ],
     "status": [
       {
@@ -2854,22 +2356,16 @@
     "height": 10,
     "weight": 320,
     "moves": [
-      "metronome",
-      "uproar",
-      "taunt",
-      "rock-climb"
+      "stone-edge",
+      "double-edge",
+      "focus-energy",
+      "facade"
     ]
   },
   {
     "name": "growlithe",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fire",
-          "url": "https://pokeapi.co/api/v2/type/10/"
-        }
-      }
+      "fire"
     ],
     "status": [
       {
@@ -2901,22 +2397,16 @@
     "height": 7,
     "weight": 190,
     "moves": [
-      "iron-tail",
-      "thief",
-      "leer",
-      "leer"
+      "reflect",
+      "attract",
+      "flame-burst",
+      "strength"
     ]
   },
   {
     "name": "arcanine",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fire",
-          "url": "https://pokeapi.co/api/v2/type/10/"
-        }
-      }
+      "fire"
     ],
     "status": [
       {
@@ -2948,22 +2438,16 @@
     "height": 19,
     "weight": 1550,
     "moves": [
-      "iron-tail",
-      "leer",
-      "overheat",
-      "flame-wheel"
+      "dig",
+      "laser-focus",
+      "snarl",
+      "natural-gift"
     ]
   },
   {
     "name": "poliwag",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -2995,22 +2479,16 @@
     "height": 6,
     "weight": 124,
     "moves": [
-      "psywave",
-      "ice-beam",
-      "helping-hand",
-      "natural-gift"
+      "dive",
+      "hail",
+      "mind-reader",
+      "psywave"
     ]
   },
   {
     "name": "poliwhirl",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -3042,29 +2520,17 @@
     "height": 10,
     "weight": 200,
     "moves": [
-      "scald",
-      "water-gun",
       "hidden-power",
-      "frustration"
+      "mega-punch",
+      "muddy-water",
+      "earth-power"
     ]
   },
   {
     "name": "poliwrath",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "fighting",
-          "url": "https://pokeapi.co/api/v2/type/2/"
-        }
-      }
+      "water",
+      "fighting"
     ],
     "status": [
       {
@@ -3096,22 +2562,16 @@
     "height": 13,
     "weight": 540,
     "moves": [
-      "drain-punch",
-      "mega-kick",
-      "drain-punch",
-      "sleep-talk"
+      "substitute",
+      "rock-tomb",
+      "metronome",
+      "double-team"
     ]
   },
   {
     "name": "abra",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "psychic",
-          "url": "https://pokeapi.co/api/v2/type/14/"
-        }
-      }
+      "psychic"
     ],
     "status": [
       {
@@ -3143,22 +2603,16 @@
     "height": 9,
     "weight": 195,
     "moves": [
-      "knock-off",
-      "barrier",
-      "grass-knot",
-      "thunder-punch"
+      "iron-tail",
+      "psycho-shift",
+      "round",
+      "counter"
     ]
   },
   {
     "name": "kadabra",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "psychic",
-          "url": "https://pokeapi.co/api/v2/type/14/"
-        }
-      }
+      "psychic"
     ],
     "status": [
       {
@@ -3190,22 +2644,16 @@
     "height": 13,
     "weight": 565,
     "moves": [
-      "bide",
-      "counter",
-      "ally-switch",
-      "double-team"
+      "frustration",
+      "guard-swap",
+      "zap-cannon",
+      "teleport"
     ]
   },
   {
     "name": "alakazam",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "psychic",
-          "url": "https://pokeapi.co/api/v2/type/14/"
-        }
-      }
+      "psychic"
     ],
     "status": [
       {
@@ -3237,22 +2685,16 @@
     "height": 15,
     "weight": 480,
     "moves": [
-      "encore",
-      "sunny-day",
-      "calm-mind",
-      "focus-punch"
+      "foul-play",
+      "embargo",
+      "guard-swap",
+      "drain-punch"
     ]
   },
   {
     "name": "machop",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fighting",
-          "url": "https://pokeapi.co/api/v2/type/2/"
-        }
-      }
+      "fighting"
     ],
     "status": [
       {
@@ -3284,22 +2726,16 @@
     "height": 8,
     "weight": 195,
     "moves": [
-      "light-screen",
-      "focus-punch",
-      "take-down",
-      "encore"
+      "hidden-power",
+      "heavy-slam",
+      "scary-face",
+      "bulk-up"
     ]
   },
   {
     "name": "machoke",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fighting",
-          "url": "https://pokeapi.co/api/v2/type/2/"
-        }
-      }
+      "fighting"
     ],
     "status": [
       {
@@ -3331,22 +2767,16 @@
     "height": 15,
     "weight": 705,
     "moves": [
-      "confide",
-      "confide",
-      "focus-punch",
-      "confide"
+      "stomping-tantrum",
+      "dynamic-punch",
+      "rock-tomb",
+      "incinerate"
     ]
   },
   {
     "name": "machamp",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fighting",
-          "url": "https://pokeapi.co/api/v2/type/2/"
-        }
-      }
+      "fighting"
     ],
     "status": [
       {
@@ -3378,29 +2808,17 @@
     "height": 16,
     "weight": 1300,
     "moves": [
-      "body-slam",
-      "rock-slide",
-      "earthquake",
-      "secret-power"
+      "mega-punch",
+      "mega-kick",
+      "heavy-slam",
+      "sunny-day"
     ]
   },
   {
     "name": "bellsprout",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "grass",
-          "url": "https://pokeapi.co/api/v2/type/12/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "grass",
+      "poison"
     ],
     "status": [
       {
@@ -3432,29 +2850,17 @@
     "height": 7,
     "weight": 40,
     "moves": [
+      "double-edge",
       "sleep-talk",
-      "sucker-punch",
-      "facade",
-      "tickle"
+      "clear-smog",
+      "double-edge"
     ]
   },
   {
     "name": "weepinbell",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "grass",
-          "url": "https://pokeapi.co/api/v2/type/12/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "grass",
+      "poison"
     ],
     "status": [
       {
@@ -3486,29 +2892,17 @@
     "height": 10,
     "weight": 64,
     "moves": [
-      "round",
-      "rage",
-      "flash",
-      "substitute"
+      "mimic",
+      "synthesis",
+      "energy-ball",
+      "mimic"
     ]
   },
   {
     "name": "victreebel",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "grass",
-          "url": "https://pokeapi.co/api/v2/type/12/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "grass",
+      "poison"
     ],
     "status": [
       {
@@ -3540,29 +2934,17 @@
     "height": 17,
     "weight": 155,
     "moves": [
-      "razor-leaf",
-      "stockpile",
-      "double-team",
-      "bug-bite"
+      "take-down",
+      "swords-dance",
+      "rest",
+      "thief"
     ]
   },
   {
     "name": "tentacool",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "water",
+      "poison"
     ],
     "status": [
       {
@@ -3594,29 +2976,17 @@
     "height": 9,
     "weight": 455,
     "moves": [
-      "reflect",
-      "mimic",
-      "brine",
-      "double-team"
+      "bubble",
+      "round",
+      "bubble-beam",
+      "skull-bash"
     ]
   },
   {
     "name": "tentacruel",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "water",
+      "poison"
     ],
     "status": [
       {
@@ -3648,29 +3018,17 @@
     "height": 16,
     "weight": 550,
     "moves": [
-      "blizzard",
-      "attract",
-      "dazzling-gleam",
-      "poison-sting"
+      "ice-beam",
+      "substitute",
+      "rain-dance",
+      "thief"
     ]
   },
   {
     "name": "geodude",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "rock",
-          "url": "https://pokeapi.co/api/v2/type/6/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "ground",
-          "url": "https://pokeapi.co/api/v2/type/5/"
-        }
-      }
+      "rock",
+      "ground"
     ],
     "status": [
       {
@@ -3702,29 +3060,17 @@
     "height": 4,
     "weight": 200,
     "moves": [
-      "captivate",
-      "stealth-rock",
-      "dynamic-punch",
-      "superpower"
+      "sand-attack",
+      "sand-attack",
+      "rest",
+      "attract"
     ]
   },
   {
     "name": "graveler",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "rock",
-          "url": "https://pokeapi.co/api/v2/type/6/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "ground",
-          "url": "https://pokeapi.co/api/v2/type/5/"
-        }
-      }
+      "rock",
+      "ground"
     ],
     "status": [
       {
@@ -3756,29 +3102,17 @@
     "height": 10,
     "weight": 1050,
     "moves": [
-      "rock-throw",
-      "rock-smash",
-      "rock-smash",
-      "strength"
+      "headbutt",
+      "flamethrower",
+      "defense-curl",
+      "dig"
     ]
   },
   {
     "name": "golem",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "rock",
-          "url": "https://pokeapi.co/api/v2/type/6/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "ground",
-          "url": "https://pokeapi.co/api/v2/type/5/"
-        }
-      }
+      "rock",
+      "ground"
     ],
     "status": [
       {
@@ -3810,22 +3144,16 @@
     "height": 14,
     "weight": 3000,
     "moves": [
-      "return",
-      "strength",
-      "rock-climb",
-      "tackle"
+      "confide",
+      "captivate",
+      "magnitude",
+      "fling"
     ]
   },
   {
     "name": "ponyta",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fire",
-          "url": "https://pokeapi.co/api/v2/type/10/"
-        }
-      }
+      "fire"
     ],
     "status": [
       {
@@ -3857,22 +3185,16 @@
     "height": 10,
     "weight": 300,
     "moves": [
-      "round",
-      "fire-spin",
-      "wild-charge",
-      "double-edge"
+      "ember",
+      "horn-drill",
+      "sleep-talk",
+      "attract"
     ]
   },
   {
     "name": "rapidash",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fire",
-          "url": "https://pokeapi.co/api/v2/type/10/"
-        }
-      }
+      "fire"
     ],
     "status": [
       {
@@ -3904,29 +3226,17 @@
     "height": 17,
     "weight": 950,
     "moves": [
-      "sunny-day",
-      "fire-blast",
       "facade",
-      "tackle"
+      "play-rough",
+      "strength",
+      "inferno"
     ]
   },
   {
     "name": "slowpoke",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "psychic",
-          "url": "https://pokeapi.co/api/v2/type/14/"
-        }
-      }
+      "water",
+      "psychic"
     ],
     "status": [
       {
@@ -3958,29 +3268,17 @@
     "height": 12,
     "weight": 360,
     "moves": [
-      "return",
-      "rage",
-      "zen-headbutt",
-      "growl"
+      "signal-beam",
+      "stored-power",
+      "magic-coat",
+      "disable"
     ]
   },
   {
     "name": "slowbro",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "psychic",
-          "url": "https://pokeapi.co/api/v2/type/14/"
-        }
-      }
+      "water",
+      "psychic"
     ],
     "status": [
       {
@@ -4012,29 +3310,17 @@
     "height": 16,
     "weight": 785,
     "moves": [
-      "recycle",
-      "rest",
-      "brick-break",
-      "mud-shot"
+      "thunder-wave",
+      "mega-kick",
+      "rain-dance",
+      "hail"
     ]
   },
   {
     "name": "magnemite",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "electric",
-          "url": "https://pokeapi.co/api/v2/type/13/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "steel",
-          "url": "https://pokeapi.co/api/v2/type/9/"
-        }
-      }
+      "electric",
+      "steel"
     ],
     "status": [
       {
@@ -4066,29 +3352,17 @@
     "height": 3,
     "weight": 60,
     "moves": [
-      "substitute",
-      "charge-beam",
-      "rollout",
-      "volt-switch"
+      "steel-beam",
+      "curse",
+      "supersonic",
+      "metal-sound"
     ]
   },
   {
     "name": "magneton",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "electric",
-          "url": "https://pokeapi.co/api/v2/type/13/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "steel",
-          "url": "https://pokeapi.co/api/v2/type/9/"
-        }
-      }
+      "electric",
+      "steel"
     ],
     "status": [
       {
@@ -4120,29 +3394,17 @@
     "height": 10,
     "weight": 600,
     "moves": [
-      "magnet-rise",
-      "explosion",
+      "shock-wave",
+      "thunder-wave",
       "signal-beam",
-      "electroweb"
+      "giga-impact"
     ]
   },
   {
     "name": "farfetchd",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "normal",
+      "flying"
     ],
     "status": [
       {
@@ -4174,29 +3436,17 @@
     "height": 8,
     "weight": 150,
     "moves": [
-      "fury-attack",
+      "covet",
       "detect",
-      "leaf-blade",
-      "double-team"
+      "facade",
+      "peck"
     ]
   },
   {
     "name": "doduo",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "normal",
+      "flying"
     ],
     "status": [
       {
@@ -4228,29 +3478,17 @@
     "height": 14,
     "weight": 392,
     "moves": [
-      "assurance",
-      "rage",
-      "quick-attack",
-      "growl"
+      "haze",
+      "roost",
+      "double-team",
+      "captivate"
     ]
   },
   {
     "name": "dodrio",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "normal",
+      "flying"
     ],
     "status": [
       {
@@ -4282,22 +3520,16 @@
     "height": 18,
     "weight": 852,
     "moves": [
-      "sky-attack",
-      "secret-power",
-      "snore",
-      "round"
+      "body-slam",
+      "stomping-tantrum",
+      "thrash",
+      "skull-bash"
     ]
   },
   {
     "name": "seel",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -4329,29 +3561,17 @@
     "height": 11,
     "weight": 900,
     "moves": [
-      "skull-bash",
-      "natural-gift",
-      "rest",
-      "ice-shard"
+      "toxic",
+      "megahorn",
+      "rain-dance",
+      "entrainment"
     ]
   },
   {
     "name": "dewgong",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "ice",
-          "url": "https://pokeapi.co/api/v2/type/15/"
-        }
-      }
+      "water",
+      "ice"
     ],
     "status": [
       {
@@ -4383,22 +3603,16 @@
     "height": 17,
     "weight": 1200,
     "moves": [
-      "bubble-beam",
-      "headbutt",
-      "secret-power",
-      "rain-dance"
+      "thief",
+      "rain-dance",
+      "protect",
+      "helping-hand"
     ]
   },
   {
     "name": "grimer",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "poison"
     ],
     "status": [
       {
@@ -4430,22 +3644,16 @@
     "height": 9,
     "weight": 300,
     "moves": [
-      "zen-headbutt",
-      "sludge",
-      "confuse-ray",
-      "shadow-sneak"
+      "scary-face",
+      "body-slam",
+      "minimize",
+      "hex"
     ]
   },
   {
     "name": "muk",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "poison"
     ],
     "status": [
       {
@@ -4477,22 +3685,16 @@
     "height": 12,
     "weight": 300,
     "moves": [
-      "explosion",
       "dig",
-      "natural-gift",
-      "snore"
+      "bide",
+      "explosion",
+      "pain-split"
     ]
   },
   {
     "name": "shellder",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -4524,29 +3726,17 @@
     "height": 3,
     "weight": 40,
     "moves": [
-      "toxic-spikes",
-      "confide",
-      "liquidation",
-      "ice-beam"
+      "swift",
+      "payback",
+      "bubble-beam",
+      "double-team"
     ]
   },
   {
     "name": "cloyster",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "ice",
-          "url": "https://pokeapi.co/api/v2/type/15/"
-        }
-      }
+      "water",
+      "ice"
     ],
     "status": [
       {
@@ -4578,29 +3768,17 @@
     "height": 15,
     "weight": 1325,
     "moves": [
-      "aurora-beam",
-      "liquidation",
-      "hyper-beam",
-      "body-slam"
+      "spikes",
+      "ice-spinner",
+      "rage",
+      "endure"
     ]
   },
   {
     "name": "gastly",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "ghost",
-          "url": "https://pokeapi.co/api/v2/type/8/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "ghost",
+      "poison"
     ],
     "status": [
       {
@@ -4632,29 +3810,17 @@
     "height": 13,
     "weight": 1,
     "moves": [
-      "hypnosis",
-      "return",
-      "rest",
-      "perish-song"
+      "double-team",
+      "bide",
+      "hidden-power",
+      "endure"
     ]
   },
   {
     "name": "haunter",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "ghost",
-          "url": "https://pokeapi.co/api/v2/type/8/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "ghost",
+      "poison"
     ],
     "status": [
       {
@@ -4686,29 +3852,17 @@
     "height": 16,
     "weight": 1,
     "moves": [
-      "toxic-spikes",
-      "destiny-bond",
-      "icy-wind",
-      "bide"
+      "mean-look",
+      "substitute",
+      "mean-look",
+      "sunny-day"
     ]
   },
   {
     "name": "gengar",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "ghost",
-          "url": "https://pokeapi.co/api/v2/type/8/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "ghost",
+      "poison"
     ],
     "status": [
       {
@@ -4740,29 +3894,17 @@
     "height": 15,
     "weight": 405,
     "moves": [
-      "infestation",
-      "destiny-bond",
-      "destiny-bond",
-      "dream-eater"
+      "sludge-wave",
+      "counter",
+      "rage",
+      "foul-play"
     ]
   },
   {
     "name": "onix",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "rock",
-          "url": "https://pokeapi.co/api/v2/type/6/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "ground",
-          "url": "https://pokeapi.co/api/v2/type/5/"
-        }
-      }
+      "rock",
+      "ground"
     ],
     "status": [
       {
@@ -4794,22 +3936,16 @@
     "height": 88,
     "weight": 2100,
     "moves": [
-      "attract",
-      "psych-up",
-      "dragon-breath",
-      "rage"
+      "mud-slap",
+      "rock-tomb",
+      "head-smash",
+      "double-team"
     ]
   },
   {
     "name": "drowzee",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "psychic",
-          "url": "https://pokeapi.co/api/v2/type/14/"
-        }
-      }
+      "psychic"
     ],
     "status": [
       {
@@ -4841,22 +3977,16 @@
     "height": 10,
     "weight": 324,
     "moves": [
-      "double-team",
-      "dream-eater",
-      "flatter",
-      "fling"
+      "swift",
+      "focus-blast",
+      "captivate",
+      "power-up-punch"
     ]
   },
   {
     "name": "hypno",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "psychic",
-          "url": "https://pokeapi.co/api/v2/type/14/"
-        }
-      }
+      "psychic"
     ],
     "status": [
       {
@@ -4888,22 +4018,16 @@
     "height": 16,
     "weight": 756,
     "moves": [
-      "captivate",
-      "mega-kick",
-      "ally-switch",
-      "rest"
+      "barrier",
+      "helping-hand",
+      "baton-pass",
+      "skull-bash"
     ]
   },
   {
     "name": "krabby",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -4935,22 +4059,16 @@
     "height": 4,
     "weight": 65,
     "moves": [
-      "rain-dance",
-      "frustration",
-      "icy-wind",
-      "attract"
+      "ally-switch",
+      "sleep-talk",
+      "guillotine",
+      "hone-claws"
     ]
   },
   {
     "name": "kingler",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -4982,22 +4100,16 @@
     "height": 13,
     "weight": 600,
     "moves": [
-      "water-pulse",
-      "headbutt",
-      "bubble-beam",
-      "knock-off"
+      "flail",
+      "leer",
+      "ancient-power",
+      "hammer-arm"
     ]
   },
   {
     "name": "voltorb",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "electric",
-          "url": "https://pokeapi.co/api/v2/type/13/"
-        }
-      }
+      "electric"
     ],
     "status": [
       {
@@ -5029,22 +4141,16 @@
     "height": 5,
     "weight": 104,
     "moves": [
-      "sucker-punch",
-      "spark",
-      "protect",
-      "take-down"
+      "signal-beam",
+      "tera-blast",
+      "self-destruct",
+      "double-team"
     ]
   },
   {
     "name": "electrode",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "electric",
-          "url": "https://pokeapi.co/api/v2/type/13/"
-        }
-      }
+      "electric"
     ],
     "status": [
       {
@@ -5076,29 +4182,17 @@
     "height": 12,
     "weight": 666,
     "moves": [
-      "helping-hand",
-      "thunder-shock",
-      "volt-switch",
-      "reflect"
+      "return",
+      "take-down",
+      "rage",
+      "rage"
     ]
   },
   {
     "name": "exeggcute",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "grass",
-          "url": "https://pokeapi.co/api/v2/type/12/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "psychic",
-          "url": "https://pokeapi.co/api/v2/type/14/"
-        }
-      }
+      "grass",
+      "psychic"
     ],
     "status": [
       {
@@ -5130,29 +4224,17 @@
     "height": 4,
     "weight": 25,
     "moves": [
-      "skill-swap",
-      "seed-bomb",
-      "hypnosis",
-      "light-screen"
+      "confusion",
+      "lucky-chant",
+      "natural-gift",
+      "protect"
     ]
   },
   {
     "name": "exeggutor",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "grass",
-          "url": "https://pokeapi.co/api/v2/type/12/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "psychic",
-          "url": "https://pokeapi.co/api/v2/type/14/"
-        }
-      }
+      "grass",
+      "psychic"
     ],
     "status": [
       {
@@ -5185,21 +4267,15 @@
     "weight": 1200,
     "moves": [
       "grass-knot",
-      "zen-headbutt",
-      "nature-power",
-      "seed-bomb"
+      "terrain-pulse",
+      "seed-bomb",
+      "psywave"
     ]
   },
   {
     "name": "cubone",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "ground",
-          "url": "https://pokeapi.co/api/v2/type/5/"
-        }
-      }
+      "ground"
     ],
     "status": [
       {
@@ -5231,22 +4307,16 @@
     "height": 4,
     "weight": 65,
     "moves": [
-      "thief",
-      "bulldoze",
-      "earth-power",
-      "ice-beam"
+      "protect",
+      "endeavor",
+      "captivate",
+      "rest"
     ]
   },
   {
     "name": "marowak",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "ground",
-          "url": "https://pokeapi.co/api/v2/type/5/"
-        }
-      }
+      "ground"
     ],
     "status": [
       {
@@ -5278,22 +4348,16 @@
     "height": 10,
     "weight": 450,
     "moves": [
-      "bonemerang",
-      "captivate",
-      "focus-blast",
-      "mega-kick"
+      "incinerate",
+      "brick-break",
+      "brick-break",
+      "dig"
     ]
   },
   {
     "name": "hitmonlee",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fighting",
-          "url": "https://pokeapi.co/api/v2/type/2/"
-        }
-      }
+      "fighting"
     ],
     "status": [
       {
@@ -5325,22 +4389,16 @@
     "height": 15,
     "weight": 498,
     "moves": [
-      "reversal",
-      "bulk-up",
-      "attract",
-      "body-slam"
+      "high-jump-kick",
+      "aura-sphere",
+      "bide",
+      "earthquake"
     ]
   },
   {
     "name": "hitmonchan",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fighting",
-          "url": "https://pokeapi.co/api/v2/type/2/"
-        }
-      }
+      "fighting"
     ],
     "status": [
       {
@@ -5372,22 +4430,16 @@
     "height": 14,
     "weight": 502,
     "moves": [
-      "ice-punch",
-      "dizzy-punch",
-      "counter",
-      "uproar"
+      "focus-blast",
+      "vacuum-wave",
+      "close-combat",
+      "focus-energy"
     ]
   },
   {
     "name": "lickitung",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      }
+      "normal"
     ],
     "status": [
       {
@@ -5419,22 +4471,16 @@
     "height": 12,
     "weight": 655,
     "moves": [
-      "retaliate",
-      "sleep-talk",
-      "rock-smash",
-      "knock-off"
+      "dynamic-punch",
+      "fissure",
+      "belly-drum",
+      "flamethrower"
     ]
   },
   {
     "name": "koffing",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "poison"
     ],
     "status": [
       {
@@ -5466,22 +4512,16 @@
     "height": 6,
     "weight": 10,
     "moves": [
-      "destiny-bond",
-      "will-o-wisp",
-      "curse",
-      "torment"
+      "explosion",
+      "sleep-talk",
+      "psywave",
+      "confide"
     ]
   },
   {
     "name": "weezing",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "poison",
-          "url": "https://pokeapi.co/api/v2/type/4/"
-        }
-      }
+      "poison"
     ],
     "status": [
       {
@@ -5513,29 +4553,17 @@
     "height": 12,
     "weight": 95,
     "moves": [
-      "destiny-bond",
-      "toxic-spikes",
-      "gyro-ball",
-      "screech"
+      "round",
+      "confide",
+      "sludge",
+      "rest"
     ]
   },
   {
     "name": "rhyhorn",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "ground",
-          "url": "https://pokeapi.co/api/v2/type/5/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "rock",
-          "url": "https://pokeapi.co/api/v2/type/6/"
-        }
-      }
+      "ground",
+      "rock"
     ],
     "status": [
       {
@@ -5567,29 +4595,17 @@
     "height": 10,
     "weight": 1150,
     "moves": [
-      "swords-dance",
-      "earthquake",
-      "frustration",
-      "spite"
+      "tackle",
+      "fire-fang",
+      "pursuit",
+      "dig"
     ]
   },
   {
     "name": "rhydon",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "ground",
-          "url": "https://pokeapi.co/api/v2/type/5/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "rock",
-          "url": "https://pokeapi.co/api/v2/type/6/"
-        }
-      }
+      "ground",
+      "rock"
     ],
     "status": [
       {
@@ -5621,22 +4637,16 @@
     "height": 19,
     "weight": 1200,
     "moves": [
-      "thunder",
-      "heavy-slam",
-      "iron-tail",
-      "horn-drill"
+      "submission",
+      "poison-jab",
+      "rock-polish",
+      "smack-down"
     ]
   },
   {
     "name": "chansey",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      }
+      "normal"
     ],
     "status": [
       {
@@ -5668,22 +4678,16 @@
     "height": 11,
     "weight": 346,
     "moves": [
-      "swift",
-      "thunder-punch",
-      "double-edge",
-      "snowscape"
+      "sweet-kiss",
+      "bulldoze",
+      "covet",
+      "zap-cannon"
     ]
   },
   {
     "name": "tangela",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "grass",
-          "url": "https://pokeapi.co/api/v2/type/12/"
-        }
-      }
+      "grass"
     ],
     "status": [
       {
@@ -5715,22 +4719,16 @@
     "height": 10,
     "weight": 350,
     "moves": [
-      "ingrain",
-      "flash",
       "sleep-powder",
-      "constrict"
+      "slam",
+      "leaf-storm",
+      "sweet-scent"
     ]
   },
   {
     "name": "kangaskhan",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      }
+      "normal"
     ],
     "status": [
       {
@@ -5762,22 +4760,16 @@
     "height": 22,
     "weight": 800,
     "moves": [
-      "last-resort",
-      "water-gun",
-      "ice-beam",
-      "natural-gift"
+      "dig",
+      "captivate",
+      "hammer-arm",
+      "headbutt"
     ]
   },
   {
     "name": "horsea",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -5809,22 +4801,16 @@
     "height": 4,
     "weight": 80,
     "moves": [
-      "bubble-beam",
       "mimic",
-      "flail",
-      "swagger"
+      "scald",
+      "hail",
+      "hail"
     ]
   },
   {
     "name": "seadra",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -5856,22 +4842,16 @@
     "height": 12,
     "weight": 250,
     "moves": [
-      "flash-cannon",
-      "focus-energy",
-      "blizzard",
-      "curse"
+      "scald",
+      "hyper-beam",
+      "return",
+      "confide"
     ]
   },
   {
     "name": "goldeen",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -5903,22 +4883,16 @@
     "height": 6,
     "weight": 150,
     "moves": [
-      "substitute",
-      "ice-beam",
-      "scald",
-      "whirlpool"
+      "mud-slap",
+      "body-slam",
+      "swift",
+      "icy-wind"
     ]
   },
   {
     "name": "seaking",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -5950,22 +4924,16 @@
     "height": 13,
     "weight": 390,
     "moves": [
-      "mud-shot",
-      "round",
-      "giga-impact",
-      "aqua-ring"
+      "supersonic",
+      "quick-attack",
+      "captivate",
+      "soak"
     ]
   },
   {
     "name": "staryu",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -5997,29 +4965,17 @@
     "height": 8,
     "weight": 345,
     "moves": [
-      "waterfall",
-      "icy-wind",
-      "headbutt",
-      "secret-power"
+      "swagger",
+      "tackle",
+      "power-gem",
+      "flip-turn"
     ]
   },
   {
     "name": "starmie",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "psychic",
-          "url": "https://pokeapi.co/api/v2/type/14/"
-        }
-      }
+      "water",
+      "psychic"
     ],
     "status": [
       {
@@ -6051,29 +5007,17 @@
     "height": 11,
     "weight": 800,
     "moves": [
-      "rapid-spin",
-      "flash-cannon",
-      "thunder",
-      "confide"
+      "water-pulse",
+      "facade",
+      "tackle",
+      "brine"
     ]
   },
   {
     "name": "mr-mime",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "psychic",
-          "url": "https://pokeapi.co/api/v2/type/14/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "fairy",
-          "url": "https://pokeapi.co/api/v2/type/18/"
-        }
-      }
+      "psychic",
+      "fairy"
     ],
     "status": [
       {
@@ -6105,29 +5049,17 @@
     "height": 13,
     "weight": 545,
     "moves": [
-      "psyshock",
-      "thunder-punch",
-      "frustration",
-      "ice-punch"
+      "barrier",
+      "shadow-ball",
+      "uproar",
+      "wonder-room"
     ]
   },
   {
     "name": "scyther",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "bug",
-          "url": "https://pokeapi.co/api/v2/type/7/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "bug",
+      "flying"
     ],
     "status": [
       {
@@ -6159,29 +5091,17 @@
     "height": 15,
     "weight": 560,
     "moves": [
-      "air-slash",
-      "helping-hand",
-      "steel-wing",
-      "air-slash"
+      "close-combat",
+      "natural-gift",
+      "scary-face",
+      "air-cutter"
     ]
   },
   {
     "name": "jynx",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "ice",
-          "url": "https://pokeapi.co/api/v2/type/15/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "psychic",
-          "url": "https://pokeapi.co/api/v2/type/14/"
-        }
-      }
+      "ice",
+      "psychic"
     ],
     "status": [
       {
@@ -6213,22 +5133,16 @@
     "height": 14,
     "weight": 406,
     "moves": [
-      "sing",
-      "payback",
-      "icy-wind",
-      "nasty-plot"
+      "trick-room",
+      "drain-punch",
+      "light-screen",
+      "double-edge"
     ]
   },
   {
     "name": "electabuzz",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "electric",
-          "url": "https://pokeapi.co/api/v2/type/13/"
-        }
-      }
+      "electric"
     ],
     "status": [
       {
@@ -6260,22 +5174,16 @@
     "height": 11,
     "weight": 300,
     "moves": [
-      "low-kick",
-      "mimic",
-      "skull-bash",
-      "secret-power"
+      "mega-punch",
+      "ice-punch",
+      "metronome",
+      "hidden-power"
     ]
   },
   {
     "name": "magmar",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fire",
-          "url": "https://pokeapi.co/api/v2/type/10/"
-        }
-      }
+      "fire"
     ],
     "status": [
       {
@@ -6307,22 +5215,16 @@
     "height": 13,
     "weight": 445,
     "moves": [
-      "thunder-punch",
-      "focus-punch",
-      "natural-gift",
-      "curse"
+      "submission",
+      "burning-jealousy",
+      "dynamic-punch",
+      "rock-climb"
     ]
   },
   {
     "name": "pinsir",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "bug",
-          "url": "https://pokeapi.co/api/v2/type/7/"
-        }
-      }
+      "bug"
     ],
     "status": [
       {
@@ -6354,22 +5256,16 @@
     "height": 15,
     "weight": 550,
     "moves": [
-      "high-horsepower",
-      "fling",
-      "revenge",
-      "protect"
+      "rain-dance",
+      "rain-dance",
+      "focus-punch",
+      "hidden-power"
     ]
   },
   {
     "name": "tauros",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      }
+      "normal"
     ],
     "status": [
       {
@@ -6401,22 +5297,16 @@
     "height": 14,
     "weight": 884,
     "moves": [
-      "hidden-power",
-      "uproar",
-      "zen-headbutt",
-      "endeavor"
+      "outrage",
+      "captivate",
+      "zap-cannon",
+      "headbutt"
     ]
   },
   {
     "name": "magikarp",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -6448,29 +5338,17 @@
     "height": 9,
     "weight": 100,
     "moves": [
-      "tackle",
+      "bounce",
+      "hydro-pump",
       "flail",
-      "tackle",
-      "flail"
+      "tackle"
     ]
   },
   {
     "name": "gyarados",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "water",
+      "flying"
     ],
     "status": [
       {
@@ -6502,29 +5380,17 @@
     "height": 65,
     "weight": 2350,
     "moves": [
-      "dragon-pulse",
-      "rain-dance",
-      "scale-shot",
-      "protect"
+      "sleep-talk",
+      "muddy-water",
+      "thunder",
+      "bulldoze"
     ]
   },
   {
     "name": "lapras",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "ice",
-          "url": "https://pokeapi.co/api/v2/type/15/"
-        }
-      }
+      "water",
+      "ice"
     ],
     "status": [
       {
@@ -6556,22 +5422,16 @@
     "height": 25,
     "weight": 2200,
     "moves": [
-      "liquidation",
-      "frustration",
-      "shock-wave",
-      "foresight"
+      "megahorn",
+      "natural-gift",
+      "solar-beam",
+      "psywave"
     ]
   },
   {
     "name": "ditto",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      }
+      "normal"
     ],
     "status": [
       {
@@ -6612,13 +5472,7 @@
   {
     "name": "eevee",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      }
+      "normal"
     ],
     "status": [
       {
@@ -6650,22 +5504,16 @@
     "height": 3,
     "weight": 65,
     "moves": [
-      "quick-attack",
-      "facade",
-      "return",
-      "swift"
+      "toxic",
+      "tera-blast",
+      "shadow-ball",
+      "substitute"
     ]
   },
   {
     "name": "vaporeon",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "water"
     ],
     "status": [
       {
@@ -6697,22 +5545,16 @@
     "height": 10,
     "weight": 290,
     "moves": [
-      "stored-power",
-      "secret-power",
-      "haze",
-      "tera-blast"
+      "water-gun",
+      "double-edge",
+      "mist",
+      "double-kick"
     ]
   },
   {
     "name": "jolteon",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "electric",
-          "url": "https://pokeapi.co/api/v2/type/13/"
-        }
-      }
+      "electric"
     ],
     "status": [
       {
@@ -6744,22 +5586,16 @@
     "height": 8,
     "weight": 245,
     "moves": [
-      "thunder-wave",
-      "shock-wave",
-      "snore",
-      "baton-pass"
+      "frustration",
+      "bite",
+      "swift",
+      "frustration"
     ]
   },
   {
     "name": "flareon",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fire",
-          "url": "https://pokeapi.co/api/v2/type/10/"
-        }
-      }
+      "fire"
     ],
     "status": [
       {
@@ -6791,22 +5627,16 @@
     "height": 9,
     "weight": 250,
     "moves": [
-      "last-resort",
-      "reflect",
-      "growl",
-      "sleep-talk"
+      "tail-whip",
+      "calm-mind",
+      "round",
+      "mystical-fire"
     ]
   },
   {
     "name": "porygon",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      }
+      "normal"
     ],
     "status": [
       {
@@ -6838,29 +5668,17 @@
     "height": 8,
     "weight": 365,
     "moves": [
-      "gravity",
-      "power-swap",
-      "conversion-2",
-      "solar-beam"
+      "thunder-shock",
+      "pain-split",
+      "hidden-power",
+      "rain-dance"
     ]
   },
   {
     "name": "omanyte",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "rock",
-          "url": "https://pokeapi.co/api/v2/type/6/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "rock",
+      "water"
     ],
     "status": [
       {
@@ -6892,29 +5710,17 @@
     "height": 4,
     "weight": 75,
     "moves": [
-      "toxic",
-      "hidden-power",
-      "hydro-pump",
-      "dive"
+      "captivate",
+      "confide",
+      "bide",
+      "stealth-rock"
     ]
   },
   {
     "name": "omastar",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "rock",
-          "url": "https://pokeapi.co/api/v2/type/6/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "rock",
+      "water"
     ],
     "status": [
       {
@@ -6946,29 +5752,17 @@
     "height": 10,
     "weight": 350,
     "moves": [
-      "submission",
-      "snore",
-      "captivate",
-      "bubble-beam"
+      "giga-impact",
+      "frustration",
+      "sleep-talk",
+      "scald"
     ]
   },
   {
     "name": "kabuto",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "rock",
-          "url": "https://pokeapi.co/api/v2/type/6/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "rock",
+      "water"
     ],
     "status": [
       {
@@ -7000,29 +5794,17 @@
     "height": 5,
     "weight": 115,
     "moves": [
-      "bide",
-      "giga-drain",
-      "scratch",
-      "stealth-rock"
+      "secret-power",
+      "swagger",
+      "blizzard",
+      "leer"
     ]
   },
   {
     "name": "kabutops",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "rock",
-          "url": "https://pokeapi.co/api/v2/type/6/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "water",
-          "url": "https://pokeapi.co/api/v2/type/11/"
-        }
-      }
+      "rock",
+      "water"
     ],
     "status": [
       {
@@ -7054,29 +5836,17 @@
     "height": 13,
     "weight": 405,
     "moves": [
-      "facade",
-      "confide",
-      "brick-break",
-      "skull-bash"
+      "harden",
+      "rain-dance",
+      "secret-power",
+      "metal-sound"
     ]
   },
   {
     "name": "aerodactyl",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "rock",
-          "url": "https://pokeapi.co/api/v2/type/6/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "rock",
+      "flying"
     ],
     "status": [
       {
@@ -7108,22 +5878,16 @@
     "height": 18,
     "weight": 590,
     "moves": [
-      "facade",
-      "natural-gift",
-      "pursuit",
-      "bulldoze"
+      "bite",
+      "giga-impact",
+      "sleep-talk",
+      "psychic-fangs"
     ]
   },
   {
     "name": "snorlax",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "normal",
-          "url": "https://pokeapi.co/api/v2/type/1/"
-        }
-      }
+      "normal"
     ],
     "status": [
       {
@@ -7155,29 +5919,17 @@
     "height": 21,
     "weight": 4600,
     "moves": [
-      "hydro-pump",
-      "hammer-arm",
-      "incinerate",
-      "frustration"
+      "rock-smash",
+      "iron-head",
+      "power-up-punch",
+      "earthquake"
     ]
   },
   {
     "name": "articuno",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "ice",
-          "url": "https://pokeapi.co/api/v2/type/15/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "ice",
+      "flying"
     ],
     "status": [
       {
@@ -7209,29 +5961,17 @@
     "height": 17,
     "weight": 554,
     "moves": [
-      "hurricane",
-      "frustration",
-      "whirlwind",
-      "sunny-day"
+      "sky-attack",
+      "roar",
+      "agility",
+      "return"
     ]
   },
   {
     "name": "zapdos",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "electric",
-          "url": "https://pokeapi.co/api/v2/type/13/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "electric",
+      "flying"
     ],
     "status": [
       {
@@ -7263,29 +6003,17 @@
     "height": 16,
     "weight": 526,
     "moves": [
-      "double-team",
-      "signal-beam",
-      "roar",
-      "fly"
+      "air-cutter",
+      "frustration",
+      "facade",
+      "leer"
     ]
   },
   {
     "name": "moltres",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "fire",
-          "url": "https://pokeapi.co/api/v2/type/10/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "fire",
+      "flying"
     ],
     "status": [
       {
@@ -7317,22 +6045,16 @@
     "height": 20,
     "weight": 600,
     "moves": [
-      "rain-dance",
-      "endure",
-      "snore",
-      "helping-hand"
+      "swift",
+      "whirlwind",
+      "tera-blast",
+      "weather-ball"
     ]
   },
   {
     "name": "dratini",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "dragon",
-          "url": "https://pokeapi.co/api/v2/type/16/"
-        }
-      }
+      "dragon"
     ],
     "status": [
       {
@@ -7364,22 +6086,16 @@
     "height": 18,
     "weight": 33,
     "moves": [
-      "swift",
-      "bide",
-      "captivate",
-      "giga-impact"
+      "rest",
+      "water-pulse",
+      "dragon-pulse",
+      "scale-shot"
     ]
   },
   {
     "name": "dragonair",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "dragon",
-          "url": "https://pokeapi.co/api/v2/type/16/"
-        }
-      }
+      "dragon"
     ],
     "status": [
       {
@@ -7411,29 +6127,17 @@
     "height": 40,
     "weight": 165,
     "moves": [
-      "rest",
-      "aqua-tail",
-      "dragon-pulse",
-      "take-down"
+      "iron-head",
+      "safeguard",
+      "return",
+      "frustration"
     ]
   },
   {
     "name": "dragonite",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "dragon",
-          "url": "https://pokeapi.co/api/v2/type/16/"
-        }
-      },
-      {
-        "slot": 2,
-        "type": {
-          "name": "flying",
-          "url": "https://pokeapi.co/api/v2/type/3/"
-        }
-      }
+      "dragon",
+      "flying"
     ],
     "status": [
       {
@@ -7465,22 +6169,16 @@
     "height": 22,
     "weight": 2100,
     "moves": [
-      "icy-wind",
-      "sky-drop",
-      "fire-spin",
-      "dragon-pulse"
+      "zap-cannon",
+      "heat-wave",
+      "hidden-power",
+      "razor-wind"
     ]
   },
   {
     "name": "mewtwo",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "psychic",
-          "url": "https://pokeapi.co/api/v2/type/14/"
-        }
-      }
+      "psychic"
     ],
     "status": [
       {
@@ -7513,21 +6211,15 @@
     "weight": 1220,
     "moves": [
       "mist",
-      "power-gem",
-      "detect",
-      "tri-attack"
+      "psywave",
+      "swift",
+      "power-swap"
     ]
   },
   {
     "name": "mew",
     "type": [
-      {
-        "slot": 1,
-        "type": {
-          "name": "psychic",
-          "url": "https://pokeapi.co/api/v2/type/14/"
-        }
-      }
+      "psychic"
     ],
     "status": [
       {
@@ -7559,10 +6251,10 @@
     "height": 4,
     "weight": 40,
     "moves": [
-      "icy-wind",
-      "rock-smash",
-      "barrier",
-      "calm-mind"
+      "bide",
+      "uproar",
+      "snowscape",
+      "icy-wind"
     ]
   }
 ]

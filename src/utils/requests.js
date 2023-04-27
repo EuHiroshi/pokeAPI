@@ -44,10 +44,14 @@ class pokemon {
                 }
             }
 
+            const pokemonTypes = result.types.map((poketypes) => {
+                return poketypes.type.name
+            })
+
             // Retornando os dados de cada pokemon
             const pokeData = {
                 name: result.forms[0].name,
-                type: result.types,
+                type: pokemonTypes,
                 status: pokemonStats,
                 dex: result.id,
                 height: result.height,

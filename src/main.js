@@ -1,8 +1,8 @@
 import pokemon from './utils/requests.js'
 
 async function main() {
-    await pokemon.getApi();
-    await pokemon.getPokemonData();
+    // await pokemon.getApi(); // Executar apenas esse se nao tiver o arquivo PokemonsUrl.json
+    // await pokemon.getPokemonData(); // Executar apenas esse se nao tiver o arquivo SortedPokedex.json, ou se quiser mudar os moves dos pokemons
     
 }
 
