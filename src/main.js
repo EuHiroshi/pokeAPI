@@ -1,8 +1,8 @@
 import pokemon from './utils/requests.js'
 
 async function main() {
-    pokemon.getApi()
-    // pokemon.getPokemonData();
+    await pokemon.getApi();
+    await pokemon.getPokemonData();
     
 }
 
