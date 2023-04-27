@@ -1,0 +1,7568 @@
+[
+  {
+    "name": "bulbasaur",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 45
+      },
+      {
+        "status": "attack",
+        "value": 49
+      },
+      {
+        "status": "defense",
+        "value": 49
+      },
+      {
+        "status": "special-attack",
+        "value": 65
+      },
+      {
+        "status": "special-defense",
+        "value": 65
+      },
+      {
+        "status": "speed",
+        "value": 45
+      }
+    ],
+    "dex": 1,
+    "height": 7,
+    "weight": 69,
+    "moves": [
+      "round",
+      "attract",
+      "outrage",
+      "substitute"
+    ]
+  },
+  {
+    "name": "ivysaur",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 60
+      },
+      {
+        "status": "attack",
+        "value": 62
+      },
+      {
+        "status": "defense",
+        "value": 63
+      },
+      {
+        "status": "special-attack",
+        "value": 80
+      },
+      {
+        "status": "special-defense",
+        "value": 80
+      },
+      {
+        "status": "speed",
+        "value": 60
+      }
+    ],
+    "dex": 2,
+    "height": 10,
+    "weight": 130,
+    "moves": [
+      "toxic",
+      "swagger",
+      "power-whip",
+      "sludge-bomb"
+    ]
+  },
+  {
+    "name": "venusaur",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 80
+      },
+      {
+        "status": "attack",
+        "value": 82
+      },
+      {
+        "status": "defense",
+        "value": 83
+      },
+      {
+        "status": "special-attack",
+        "value": 100
+      },
+      {
+        "status": "special-defense",
+        "value": 100
+      },
+      {
+        "status": "speed",
+        "value": 80
+      }
+    ],
+    "dex": 3,
+    "height": 20,
+    "weight": 1000,
+    "moves": [
+      "protect",
+      "stomping-tantrum",
+      "snore",
+      "worry-seed"
+    ]
+  },
+  {
+    "name": "charmander",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 39
+      },
+      {
+        "status": "attack",
+        "value": 52
+      },
+      {
+        "status": "defense",
+        "value": 43
+      },
+      {
+        "status": "special-attack",
+        "value": 60
+      },
+      {
+        "status": "special-defense",
+        "value": 50
+      },
+      {
+        "status": "speed",
+        "value": 65
+      }
+    ],
+    "dex": 4,
+    "height": 6,
+    "weight": 85,
+    "moves": [
+      "aerial-ace",
+      "attract",
+      "fury-cutter",
+      "iron-tail"
+    ]
+  },
+  {
+    "name": "charmeleon",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 58
+      },
+      {
+        "status": "attack",
+        "value": 64
+      },
+      {
+        "status": "defense",
+        "value": 58
+      },
+      {
+        "status": "special-attack",
+        "value": 80
+      },
+      {
+        "status": "special-defense",
+        "value": 65
+      },
+      {
+        "status": "speed",
+        "value": 80
+      }
+    ],
+    "dex": 5,
+    "height": 11,
+    "weight": 190,
+    "moves": [
+      "leer",
+      "facade",
+      "slash",
+      "false-swipe"
+    ]
+  },
+  {
+    "name": "charizard",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 78
+      },
+      {
+        "status": "attack",
+        "value": 84
+      },
+      {
+        "status": "defense",
+        "value": 78
+      },
+      {
+        "status": "special-attack",
+        "value": 109
+      },
+      {
+        "status": "special-defense",
+        "value": 85
+      },
+      {
+        "status": "speed",
+        "value": 100
+      }
+    ],
+    "dex": 6,
+    "height": 17,
+    "weight": 905,
+    "moves": [
+      "mega-punch",
+      "beat-up",
+      "curse",
+      "ember"
+    ]
+  },
+  {
+    "name": "squirtle",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 44
+      },
+      {
+        "status": "attack",
+        "value": 48
+      },
+      {
+        "status": "defense",
+        "value": 65
+      },
+      {
+        "status": "special-attack",
+        "value": 50
+      },
+      {
+        "status": "special-defense",
+        "value": 64
+      },
+      {
+        "status": "speed",
+        "value": 43
+      }
+    ],
+    "dex": 7,
+    "height": 5,
+    "weight": 90,
+    "moves": [
+      "round",
+      "curse",
+      "haze",
+      "scald"
+    ]
+  },
+  {
+    "name": "wartortle",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 59
+      },
+      {
+        "status": "attack",
+        "value": 63
+      },
+      {
+        "status": "defense",
+        "value": 80
+      },
+      {
+        "status": "special-attack",
+        "value": 65
+      },
+      {
+        "status": "special-defense",
+        "value": 80
+      },
+      {
+        "status": "speed",
+        "value": 58
+      }
+    ],
+    "dex": 8,
+    "height": 10,
+    "weight": 225,
+    "moves": [
+      "ice-beam",
+      "withdraw",
+      "dragon-pulse",
+      "protect"
+    ]
+  },
+  {
+    "name": "blastoise",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 79
+      },
+      {
+        "status": "attack",
+        "value": 83
+      },
+      {
+        "status": "defense",
+        "value": 100
+      },
+      {
+        "status": "special-attack",
+        "value": 85
+      },
+      {
+        "status": "special-defense",
+        "value": 105
+      },
+      {
+        "status": "speed",
+        "value": 78
+      }
+    ],
+    "dex": 9,
+    "height": 16,
+    "weight": 855,
+    "moves": [
+      "confide",
+      "protect",
+      "brick-break",
+      "protect"
+    ]
+  },
+  {
+    "name": "caterpie",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 45
+      },
+      {
+        "status": "attack",
+        "value": 30
+      },
+      {
+        "status": "defense",
+        "value": 35
+      },
+      {
+        "status": "special-attack",
+        "value": 20
+      },
+      {
+        "status": "special-defense",
+        "value": 20
+      },
+      {
+        "status": "speed",
+        "value": 45
+      }
+    ],
+    "dex": 10,
+    "height": 3,
+    "weight": 29,
+    "moves": [
+      "string-shot",
+      "tackle",
+      "string-shot",
+      "electroweb"
+    ]
+  },
+  {
+    "name": "metapod",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 50
+      },
+      {
+        "status": "attack",
+        "value": 20
+      },
+      {
+        "status": "defense",
+        "value": 55
+      },
+      {
+        "status": "special-attack",
+        "value": 25
+      },
+      {
+        "status": "special-defense",
+        "value": 25
+      },
+      {
+        "status": "speed",
+        "value": 30
+      }
+    ],
+    "dex": 11,
+    "height": 7,
+    "weight": 99,
+    "moves": [
+      "string-shot",
+      "harden",
+      "iron-defense",
+      "harden"
+    ]
+  },
+  {
+    "name": "butterfree",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 60
+      },
+      {
+        "status": "attack",
+        "value": 45
+      },
+      {
+        "status": "defense",
+        "value": 50
+      },
+      {
+        "status": "special-attack",
+        "value": 90
+      },
+      {
+        "status": "special-defense",
+        "value": 80
+      },
+      {
+        "status": "speed",
+        "value": 70
+      }
+    ],
+    "dex": 12,
+    "height": 11,
+    "weight": 320,
+    "moves": [
+      "giga-impact",
+      "draining-kiss",
+      "mega-drain",
+      "swift"
+    ]
+  },
+  {
+    "name": "weedle",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 40
+      },
+      {
+        "status": "attack",
+        "value": 35
+      },
+      {
+        "status": "defense",
+        "value": 30
+      },
+      {
+        "status": "special-attack",
+        "value": 20
+      },
+      {
+        "status": "special-defense",
+        "value": 20
+      },
+      {
+        "status": "speed",
+        "value": 50
+      }
+    ],
+    "dex": 13,
+    "height": 3,
+    "weight": 32,
+    "moves": [
+      "bug-bite",
+      "poison-sting",
+      "electroweb",
+      "poison-sting"
+    ]
+  },
+  {
+    "name": "kakuna",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 45
+      },
+      {
+        "status": "attack",
+        "value": 25
+      },
+      {
+        "status": "defense",
+        "value": 50
+      },
+      {
+        "status": "special-attack",
+        "value": 25
+      },
+      {
+        "status": "special-defense",
+        "value": 25
+      },
+      {
+        "status": "speed",
+        "value": 35
+      }
+    ],
+    "dex": 14,
+    "height": 6,
+    "weight": 100,
+    "moves": [
+      "bug-bite",
+      "harden",
+      "iron-defense",
+      "harden"
+    ]
+  },
+  {
+    "name": "beedrill",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 90
+      },
+      {
+        "status": "defense",
+        "value": 40
+      },
+      {
+        "status": "special-attack",
+        "value": 45
+      },
+      {
+        "status": "special-defense",
+        "value": 80
+      },
+      {
+        "status": "speed",
+        "value": 75
+      }
+    ],
+    "dex": 15,
+    "height": 10,
+    "weight": 295,
+    "moves": [
+      "solar-beam",
+      "electroweb",
+      "swift",
+      "double-edge"
+    ]
+  },
+  {
+    "name": "pidgey",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 40
+      },
+      {
+        "status": "attack",
+        "value": 45
+      },
+      {
+        "status": "defense",
+        "value": 40
+      },
+      {
+        "status": "special-attack",
+        "value": 35
+      },
+      {
+        "status": "special-defense",
+        "value": 35
+      },
+      {
+        "status": "speed",
+        "value": 56
+      }
+    ],
+    "dex": 16,
+    "height": 3,
+    "weight": 18,
+    "moves": [
+      "razor-wind",
+      "air-cutter",
+      "return",
+      "captivate"
+    ]
+  },
+  {
+    "name": "pidgeotto",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 63
+      },
+      {
+        "status": "attack",
+        "value": 60
+      },
+      {
+        "status": "defense",
+        "value": 55
+      },
+      {
+        "status": "special-attack",
+        "value": 50
+      },
+      {
+        "status": "special-defense",
+        "value": 50
+      },
+      {
+        "status": "speed",
+        "value": 71
+      }
+    ],
+    "dex": 17,
+    "height": 11,
+    "weight": 300,
+    "moves": [
+      "work-up",
+      "quick-attack",
+      "feather-dance",
+      "mimic"
+    ]
+  },
+  {
+    "name": "pidgeot",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 83
+      },
+      {
+        "status": "attack",
+        "value": 80
+      },
+      {
+        "status": "defense",
+        "value": 75
+      },
+      {
+        "status": "special-attack",
+        "value": 70
+      },
+      {
+        "status": "special-defense",
+        "value": 70
+      },
+      {
+        "status": "speed",
+        "value": 101
+      }
+    ],
+    "dex": 18,
+    "height": 15,
+    "weight": 395,
+    "moves": [
+      "round",
+      "agility",
+      "rage",
+      "sand-attack"
+    ]
+  },
+  {
+    "name": "rattata",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 30
+      },
+      {
+        "status": "attack",
+        "value": 56
+      },
+      {
+        "status": "defense",
+        "value": 35
+      },
+      {
+        "status": "special-attack",
+        "value": 25
+      },
+      {
+        "status": "special-defense",
+        "value": 35
+      },
+      {
+        "status": "speed",
+        "value": 72
+      }
+    ],
+    "dex": 19,
+    "height": 3,
+    "weight": 35,
+    "moves": [
+      "pursuit",
+      "rock-smash",
+      "mimic",
+      "me-first"
+    ]
+  },
+  {
+    "name": "raticate",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 55
+      },
+      {
+        "status": "attack",
+        "value": 81
+      },
+      {
+        "status": "defense",
+        "value": 60
+      },
+      {
+        "status": "special-attack",
+        "value": 50
+      },
+      {
+        "status": "special-defense",
+        "value": 70
+      },
+      {
+        "status": "speed",
+        "value": 97
+      }
+    ],
+    "dex": 20,
+    "height": 7,
+    "weight": 185,
+    "moves": [
+      "rage",
+      "bite",
+      "bite",
+      "icy-wind"
+    ]
+  },
+  {
+    "name": "spearow",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 40
+      },
+      {
+        "status": "attack",
+        "value": 60
+      },
+      {
+        "status": "defense",
+        "value": 30
+      },
+      {
+        "status": "special-attack",
+        "value": 31
+      },
+      {
+        "status": "special-defense",
+        "value": 31
+      },
+      {
+        "status": "speed",
+        "value": 70
+      }
+    ],
+    "dex": 21,
+    "height": 3,
+    "weight": 20,
+    "moves": [
+      "thief",
+      "heat-wave",
+      "aerial-ace",
+      "rain-dance"
+    ]
+  },
+  {
+    "name": "fearow",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 90
+      },
+      {
+        "status": "defense",
+        "value": 65
+      },
+      {
+        "status": "special-attack",
+        "value": 61
+      },
+      {
+        "status": "special-defense",
+        "value": 61
+      },
+      {
+        "status": "speed",
+        "value": 100
+      }
+    ],
+    "dex": 22,
+    "height": 12,
+    "weight": 380,
+    "moves": [
+      "sleep-talk",
+      "hidden-power",
+      "snore",
+      "air-cutter"
+    ]
+  },
+  {
+    "name": "ekans",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 35
+      },
+      {
+        "status": "attack",
+        "value": 60
+      },
+      {
+        "status": "defense",
+        "value": 44
+      },
+      {
+        "status": "special-attack",
+        "value": 40
+      },
+      {
+        "status": "special-defense",
+        "value": 54
+      },
+      {
+        "status": "speed",
+        "value": 55
+      }
+    ],
+    "dex": 23,
+    "height": 20,
+    "weight": 69,
+    "moves": [
+      "rock-tomb",
+      "substitute",
+      "iron-tail",
+      "poison-fang"
+    ]
+  },
+  {
+    "name": "arbok",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 60
+      },
+      {
+        "status": "attack",
+        "value": 95
+      },
+      {
+        "status": "defense",
+        "value": 69
+      },
+      {
+        "status": "special-attack",
+        "value": 65
+      },
+      {
+        "status": "special-defense",
+        "value": 79
+      },
+      {
+        "status": "speed",
+        "value": 80
+      }
+    ],
+    "dex": 24,
+    "height": 35,
+    "weight": 650,
+    "moves": [
+      "frustration",
+      "spite",
+      "attract",
+      "sucker-punch"
+    ]
+  },
+  {
+    "name": "pikachu",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 35
+      },
+      {
+        "status": "attack",
+        "value": 55
+      },
+      {
+        "status": "defense",
+        "value": 40
+      },
+      {
+        "status": "special-attack",
+        "value": 50
+      },
+      {
+        "status": "special-defense",
+        "value": 50
+      },
+      {
+        "status": "speed",
+        "value": 90
+      }
+    ],
+    "dex": 25,
+    "height": 4,
+    "weight": 60,
+    "moves": [
+      "double-edge",
+      "thunder-punch",
+      "seismic-toss",
+      "flash"
+    ]
+  },
+  {
+    "name": "raichu",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 60
+      },
+      {
+        "status": "attack",
+        "value": 90
+      },
+      {
+        "status": "defense",
+        "value": 55
+      },
+      {
+        "status": "special-attack",
+        "value": 90
+      },
+      {
+        "status": "special-defense",
+        "value": 80
+      },
+      {
+        "status": "speed",
+        "value": 110
+      }
+    ],
+    "dex": 26,
+    "height": 8,
+    "weight": 300,
+    "moves": [
+      "trailblaze",
+      "nuzzle",
+      "helping-hand",
+      "electro-ball"
+    ]
+  },
+  {
+    "name": "sandshrew",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 50
+      },
+      {
+        "status": "attack",
+        "value": 75
+      },
+      {
+        "status": "defense",
+        "value": 85
+      },
+      {
+        "status": "special-attack",
+        "value": 20
+      },
+      {
+        "status": "special-defense",
+        "value": 30
+      },
+      {
+        "status": "speed",
+        "value": 40
+      }
+    ],
+    "dex": 27,
+    "height": 6,
+    "weight": 120,
+    "moves": [
+      "thief",
+      "rapid-spin",
+      "secret-power",
+      "skull-bash"
+    ]
+  },
+  {
+    "name": "sandslash",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 75
+      },
+      {
+        "status": "attack",
+        "value": 100
+      },
+      {
+        "status": "defense",
+        "value": 110
+      },
+      {
+        "status": "special-attack",
+        "value": 45
+      },
+      {
+        "status": "special-defense",
+        "value": 55
+      },
+      {
+        "status": "speed",
+        "value": 65
+      }
+    ],
+    "dex": 28,
+    "height": 10,
+    "weight": 295,
+    "moves": [
+      "magnitude",
+      "double-edge",
+      "round",
+      "skull-bash"
+    ]
+  },
+  {
+    "name": "nidoran-f",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 55
+      },
+      {
+        "status": "attack",
+        "value": 47
+      },
+      {
+        "status": "defense",
+        "value": 52
+      },
+      {
+        "status": "special-attack",
+        "value": 40
+      },
+      {
+        "status": "special-defense",
+        "value": 40
+      },
+      {
+        "status": "speed",
+        "value": 41
+      }
+    ],
+    "dex": 29,
+    "height": 4,
+    "weight": 70,
+    "moves": [
+      "skull-bash",
+      "rain-dance",
+      "flatter",
+      "poison-sting"
+    ]
+  },
+  {
+    "name": "nidorina",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 70
+      },
+      {
+        "status": "attack",
+        "value": 62
+      },
+      {
+        "status": "defense",
+        "value": 67
+      },
+      {
+        "status": "special-attack",
+        "value": 55
+      },
+      {
+        "status": "special-defense",
+        "value": 55
+      },
+      {
+        "status": "speed",
+        "value": 56
+      }
+    ],
+    "dex": 30,
+    "height": 8,
+    "weight": 200,
+    "moves": [
+      "substitute",
+      "secret-power",
+      "toxic",
+      "water-pulse"
+    ]
+  },
+  {
+    "name": "nidoqueen",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 90
+      },
+      {
+        "status": "attack",
+        "value": 92
+      },
+      {
+        "status": "defense",
+        "value": 87
+      },
+      {
+        "status": "special-attack",
+        "value": 75
+      },
+      {
+        "status": "special-defense",
+        "value": 85
+      },
+      {
+        "status": "speed",
+        "value": 76
+      }
+    ],
+    "dex": 31,
+    "height": 13,
+    "weight": 600,
+    "moves": [
+      "bide",
+      "sandstorm",
+      "brick-break",
+      "quash"
+    ]
+  },
+  {
+    "name": "nidoran-m",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 46
+      },
+      {
+        "status": "attack",
+        "value": 57
+      },
+      {
+        "status": "defense",
+        "value": 40
+      },
+      {
+        "status": "special-attack",
+        "value": 40
+      },
+      {
+        "status": "special-defense",
+        "value": 40
+      },
+      {
+        "status": "speed",
+        "value": 50
+      }
+    ],
+    "dex": 32,
+    "height": 5,
+    "weight": 90,
+    "moves": [
+      "fury-attack",
+      "headbutt",
+      "rest",
+      "hidden-power"
+    ]
+  },
+  {
+    "name": "nidorino",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 61
+      },
+      {
+        "status": "attack",
+        "value": 72
+      },
+      {
+        "status": "defense",
+        "value": 57
+      },
+      {
+        "status": "special-attack",
+        "value": 55
+      },
+      {
+        "status": "special-defense",
+        "value": 55
+      },
+      {
+        "status": "speed",
+        "value": 65
+      }
+    ],
+    "dex": 33,
+    "height": 9,
+    "weight": 195,
+    "moves": [
+      "rain-dance",
+      "bubble-beam",
+      "super-fang",
+      "substitute"
+    ]
+  },
+  {
+    "name": "nidoking",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 81
+      },
+      {
+        "status": "attack",
+        "value": 102
+      },
+      {
+        "status": "defense",
+        "value": 77
+      },
+      {
+        "status": "special-attack",
+        "value": 85
+      },
+      {
+        "status": "special-defense",
+        "value": 75
+      },
+      {
+        "status": "speed",
+        "value": 85
+      }
+    ],
+    "dex": 34,
+    "height": 14,
+    "weight": 620,
+    "moves": [
+      "venom-drench",
+      "confide",
+      "echoed-voice",
+      "dig"
+    ]
+  },
+  {
+    "name": "clefairy",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 70
+      },
+      {
+        "status": "attack",
+        "value": 45
+      },
+      {
+        "status": "defense",
+        "value": 48
+      },
+      {
+        "status": "special-attack",
+        "value": 60
+      },
+      {
+        "status": "special-defense",
+        "value": 65
+      },
+      {
+        "status": "speed",
+        "value": 35
+      }
+    ],
+    "dex": 35,
+    "height": 6,
+    "weight": 75,
+    "moves": [
+      "bounce",
+      "mystical-fire",
+      "rage",
+      "stored-power"
+    ]
+  },
+  {
+    "name": "clefable",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 95
+      },
+      {
+        "status": "attack",
+        "value": 70
+      },
+      {
+        "status": "defense",
+        "value": 73
+      },
+      {
+        "status": "special-attack",
+        "value": 95
+      },
+      {
+        "status": "special-defense",
+        "value": 90
+      },
+      {
+        "status": "speed",
+        "value": 60
+      }
+    ],
+    "dex": 36,
+    "height": 13,
+    "weight": 400,
+    "moves": [
+      "dazzling-gleam",
+      "magic-coat",
+      "encore",
+      "facade"
+    ]
+  },
+  {
+    "name": "vulpix",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 38
+      },
+      {
+        "status": "attack",
+        "value": 41
+      },
+      {
+        "status": "defense",
+        "value": 40
+      },
+      {
+        "status": "special-attack",
+        "value": 50
+      },
+      {
+        "status": "special-defense",
+        "value": 65
+      },
+      {
+        "status": "speed",
+        "value": 65
+      }
+    ],
+    "dex": 37,
+    "height": 6,
+    "weight": 99,
+    "moves": [
+      "double-team",
+      "natural-gift",
+      "spite",
+      "double-team"
+    ]
+  },
+  {
+    "name": "ninetales",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 73
+      },
+      {
+        "status": "attack",
+        "value": 76
+      },
+      {
+        "status": "defense",
+        "value": 75
+      },
+      {
+        "status": "special-attack",
+        "value": 81
+      },
+      {
+        "status": "special-defense",
+        "value": 100
+      },
+      {
+        "status": "speed",
+        "value": 100
+      }
+    ],
+    "dex": 38,
+    "height": 11,
+    "weight": 199,
+    "moves": [
+      "nasty-plot",
+      "shadow-ball",
+      "foul-play",
+      "covet"
+    ]
+  },
+  {
+    "name": "jigglypuff",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 115
+      },
+      {
+        "status": "attack",
+        "value": 45
+      },
+      {
+        "status": "defense",
+        "value": 20
+      },
+      {
+        "status": "special-attack",
+        "value": 45
+      },
+      {
+        "status": "special-defense",
+        "value": 25
+      },
+      {
+        "status": "speed",
+        "value": 20
+      }
+    ],
+    "dex": 39,
+    "height": 5,
+    "weight": 55,
+    "moves": [
+      "substitute",
+      "swift",
+      "disarming-voice",
+      "facade"
+    ]
+  },
+  {
+    "name": "wigglytuff",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 140
+      },
+      {
+        "status": "attack",
+        "value": 70
+      },
+      {
+        "status": "defense",
+        "value": 45
+      },
+      {
+        "status": "special-attack",
+        "value": 85
+      },
+      {
+        "status": "special-defense",
+        "value": 50
+      },
+      {
+        "status": "speed",
+        "value": 45
+      }
+    ],
+    "dex": 40,
+    "height": 10,
+    "weight": 120,
+    "moves": [
+      "captivate",
+      "sweet-kiss",
+      "sleep-talk",
+      "snatch"
+    ]
+  },
+  {
+    "name": "zubat",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 40
+      },
+      {
+        "status": "attack",
+        "value": 45
+      },
+      {
+        "status": "defense",
+        "value": 35
+      },
+      {
+        "status": "special-attack",
+        "value": 30
+      },
+      {
+        "status": "special-defense",
+        "value": 40
+      },
+      {
+        "status": "speed",
+        "value": 55
+      }
+    ],
+    "dex": 41,
+    "height": 8,
+    "weight": 75,
+    "moves": [
+      "bite",
+      "gust",
+      "bide",
+      "captivate"
+    ]
+  },
+  {
+    "name": "golbat",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 75
+      },
+      {
+        "status": "attack",
+        "value": 80
+      },
+      {
+        "status": "defense",
+        "value": 70
+      },
+      {
+        "status": "special-attack",
+        "value": 65
+      },
+      {
+        "status": "special-defense",
+        "value": 75
+      },
+      {
+        "status": "speed",
+        "value": 90
+      }
+    ],
+    "dex": 42,
+    "height": 16,
+    "weight": 550,
+    "moves": [
+      "haze",
+      "mimic",
+      "swift",
+      "bite"
+    ]
+  },
+  {
+    "name": "oddish",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 45
+      },
+      {
+        "status": "attack",
+        "value": 50
+      },
+      {
+        "status": "defense",
+        "value": 55
+      },
+      {
+        "status": "special-attack",
+        "value": 75
+      },
+      {
+        "status": "special-defense",
+        "value": 65
+      },
+      {
+        "status": "speed",
+        "value": 30
+      }
+    ],
+    "dex": 43,
+    "height": 5,
+    "weight": 54,
+    "moves": [
+      "venoshock",
+      "double-team",
+      "moonblast",
+      "growth"
+    ]
+  },
+  {
+    "name": "gloom",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 60
+      },
+      {
+        "status": "attack",
+        "value": 65
+      },
+      {
+        "status": "defense",
+        "value": 70
+      },
+      {
+        "status": "special-attack",
+        "value": 85
+      },
+      {
+        "status": "special-defense",
+        "value": 75
+      },
+      {
+        "status": "speed",
+        "value": 40
+      }
+    ],
+    "dex": 44,
+    "height": 8,
+    "weight": 86,
+    "moves": [
+      "substitute",
+      "reflect",
+      "sludge-bomb",
+      "grass-knot"
+    ]
+  },
+  {
+    "name": "vileplume",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 75
+      },
+      {
+        "status": "attack",
+        "value": 80
+      },
+      {
+        "status": "defense",
+        "value": 85
+      },
+      {
+        "status": "special-attack",
+        "value": 110
+      },
+      {
+        "status": "special-defense",
+        "value": 90
+      },
+      {
+        "status": "speed",
+        "value": 50
+      }
+    ],
+    "dex": 45,
+    "height": 12,
+    "weight": 186,
+    "moves": [
+      "stun-spore",
+      "bullet-seed",
+      "after-you",
+      "energy-ball"
+    ]
+  },
+  {
+    "name": "paras",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 35
+      },
+      {
+        "status": "attack",
+        "value": 70
+      },
+      {
+        "status": "defense",
+        "value": 55
+      },
+      {
+        "status": "special-attack",
+        "value": 45
+      },
+      {
+        "status": "special-defense",
+        "value": 55
+      },
+      {
+        "status": "speed",
+        "value": 25
+      }
+    ],
+    "dex": 46,
+    "height": 3,
+    "weight": 54,
+    "moves": [
+      "x-scissor",
+      "body-slam",
+      "light-screen",
+      "leech-life"
+    ]
+  },
+  {
+    "name": "parasect",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 60
+      },
+      {
+        "status": "attack",
+        "value": 95
+      },
+      {
+        "status": "defense",
+        "value": 80
+      },
+      {
+        "status": "special-attack",
+        "value": 60
+      },
+      {
+        "status": "special-defense",
+        "value": 80
+      },
+      {
+        "status": "speed",
+        "value": 30
+      }
+    ],
+    "dex": 47,
+    "height": 10,
+    "weight": 295,
+    "moves": [
+      "solar-beam",
+      "cross-poison",
+      "bide",
+      "captivate"
+    ]
+  },
+  {
+    "name": "venonat",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 60
+      },
+      {
+        "status": "attack",
+        "value": 55
+      },
+      {
+        "status": "defense",
+        "value": 50
+      },
+      {
+        "status": "special-attack",
+        "value": 40
+      },
+      {
+        "status": "special-defense",
+        "value": 55
+      },
+      {
+        "status": "speed",
+        "value": 45
+      }
+    ],
+    "dex": 48,
+    "height": 10,
+    "weight": 300,
+    "moves": [
+      "bide",
+      "confuse-ray",
+      "confide",
+      "skill-swap"
+    ]
+  },
+  {
+    "name": "venomoth",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 70
+      },
+      {
+        "status": "attack",
+        "value": 65
+      },
+      {
+        "status": "defense",
+        "value": 60
+      },
+      {
+        "status": "special-attack",
+        "value": 90
+      },
+      {
+        "status": "special-defense",
+        "value": 75
+      },
+      {
+        "status": "speed",
+        "value": 90
+      }
+    ],
+    "dex": 49,
+    "height": 15,
+    "weight": 125,
+    "moves": [
+      "hidden-power",
+      "captivate",
+      "sleep-powder",
+      "mega-drain"
+    ]
+  },
+  {
+    "name": "diglett",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 10
+      },
+      {
+        "status": "attack",
+        "value": 55
+      },
+      {
+        "status": "defense",
+        "value": 25
+      },
+      {
+        "status": "special-attack",
+        "value": 35
+      },
+      {
+        "status": "special-defense",
+        "value": 45
+      },
+      {
+        "status": "speed",
+        "value": 95
+      }
+    ],
+    "dex": 50,
+    "height": 2,
+    "weight": 8,
+    "moves": [
+      "reversal",
+      "attract",
+      "mud-bomb",
+      "rest"
+    ]
+  },
+  {
+    "name": "dugtrio",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 35
+      },
+      {
+        "status": "attack",
+        "value": 100
+      },
+      {
+        "status": "defense",
+        "value": 50
+      },
+      {
+        "status": "special-attack",
+        "value": 50
+      },
+      {
+        "status": "special-defense",
+        "value": 70
+      },
+      {
+        "status": "speed",
+        "value": 120
+      }
+    ],
+    "dex": 51,
+    "height": 7,
+    "weight": 333,
+    "moves": [
+      "rest",
+      "scorching-sands",
+      "rock-blast",
+      "hyper-beam"
+    ]
+  },
+  {
+    "name": "meowth",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 40
+      },
+      {
+        "status": "attack",
+        "value": 45
+      },
+      {
+        "status": "defense",
+        "value": 35
+      },
+      {
+        "status": "special-attack",
+        "value": 40
+      },
+      {
+        "status": "special-defense",
+        "value": 40
+      },
+      {
+        "status": "speed",
+        "value": 90
+      }
+    ],
+    "dex": 52,
+    "height": 4,
+    "weight": 42,
+    "moves": [
+      "captivate",
+      "slash",
+      "sunny-day",
+      "double-edge"
+    ]
+  },
+  {
+    "name": "persian",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 70
+      },
+      {
+        "status": "defense",
+        "value": 60
+      },
+      {
+        "status": "special-attack",
+        "value": 65
+      },
+      {
+        "status": "special-defense",
+        "value": 65
+      },
+      {
+        "status": "speed",
+        "value": 115
+      }
+    ],
+    "dex": 53,
+    "height": 10,
+    "weight": 320,
+    "moves": [
+      "toxic",
+      "echoed-voice",
+      "embargo",
+      "psych-up"
+    ]
+  },
+  {
+    "name": "psyduck",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 50
+      },
+      {
+        "status": "attack",
+        "value": 52
+      },
+      {
+        "status": "defense",
+        "value": 48
+      },
+      {
+        "status": "special-attack",
+        "value": 65
+      },
+      {
+        "status": "special-defense",
+        "value": 50
+      },
+      {
+        "status": "speed",
+        "value": 55
+      }
+    ],
+    "dex": 54,
+    "height": 8,
+    "weight": 196,
+    "moves": [
+      "simple-beam",
+      "hydro-pump",
+      "tail-whip",
+      "sleep-talk"
+    ]
+  },
+  {
+    "name": "golduck",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 80
+      },
+      {
+        "status": "attack",
+        "value": 82
+      },
+      {
+        "status": "defense",
+        "value": 78
+      },
+      {
+        "status": "special-attack",
+        "value": 95
+      },
+      {
+        "status": "special-defense",
+        "value": 80
+      },
+      {
+        "status": "speed",
+        "value": 85
+      }
+    ],
+    "dex": 55,
+    "height": 17,
+    "weight": 766,
+    "moves": [
+      "low-sweep",
+      "mud-shot",
+      "giga-impact",
+      "natural-gift"
+    ]
+  },
+  {
+    "name": "mankey",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 40
+      },
+      {
+        "status": "attack",
+        "value": 80
+      },
+      {
+        "status": "defense",
+        "value": 35
+      },
+      {
+        "status": "special-attack",
+        "value": 35
+      },
+      {
+        "status": "special-defense",
+        "value": 45
+      },
+      {
+        "status": "speed",
+        "value": 70
+      }
+    ],
+    "dex": 56,
+    "height": 5,
+    "weight": 280,
+    "moves": [
+      "thunder-punch",
+      "revenge",
+      "rock-slide",
+      "poison-jab"
+    ]
+  },
+  {
+    "name": "primeape",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 105
+      },
+      {
+        "status": "defense",
+        "value": 60
+      },
+      {
+        "status": "special-attack",
+        "value": 60
+      },
+      {
+        "status": "special-defense",
+        "value": 70
+      },
+      {
+        "status": "speed",
+        "value": 95
+      }
+    ],
+    "dex": 57,
+    "height": 10,
+    "weight": 320,
+    "moves": [
+      "metronome",
+      "uproar",
+      "taunt",
+      "rock-climb"
+    ]
+  },
+  {
+    "name": "growlithe",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 55
+      },
+      {
+        "status": "attack",
+        "value": 70
+      },
+      {
+        "status": "defense",
+        "value": 45
+      },
+      {
+        "status": "special-attack",
+        "value": 70
+      },
+      {
+        "status": "special-defense",
+        "value": 50
+      },
+      {
+        "status": "speed",
+        "value": 60
+      }
+    ],
+    "dex": 58,
+    "height": 7,
+    "weight": 190,
+    "moves": [
+      "iron-tail",
+      "thief",
+      "leer",
+      "leer"
+    ]
+  },
+  {
+    "name": "arcanine",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 90
+      },
+      {
+        "status": "attack",
+        "value": 110
+      },
+      {
+        "status": "defense",
+        "value": 80
+      },
+      {
+        "status": "special-attack",
+        "value": 100
+      },
+      {
+        "status": "special-defense",
+        "value": 80
+      },
+      {
+        "status": "speed",
+        "value": 95
+      }
+    ],
+    "dex": 59,
+    "height": 19,
+    "weight": 1550,
+    "moves": [
+      "iron-tail",
+      "leer",
+      "overheat",
+      "flame-wheel"
+    ]
+  },
+  {
+    "name": "poliwag",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 40
+      },
+      {
+        "status": "attack",
+        "value": 50
+      },
+      {
+        "status": "defense",
+        "value": 40
+      },
+      {
+        "status": "special-attack",
+        "value": 40
+      },
+      {
+        "status": "special-defense",
+        "value": 40
+      },
+      {
+        "status": "speed",
+        "value": 90
+      }
+    ],
+    "dex": 60,
+    "height": 6,
+    "weight": 124,
+    "moves": [
+      "psywave",
+      "ice-beam",
+      "helping-hand",
+      "natural-gift"
+    ]
+  },
+  {
+    "name": "poliwhirl",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 65
+      },
+      {
+        "status": "defense",
+        "value": 65
+      },
+      {
+        "status": "special-attack",
+        "value": 50
+      },
+      {
+        "status": "special-defense",
+        "value": 50
+      },
+      {
+        "status": "speed",
+        "value": 90
+      }
+    ],
+    "dex": 61,
+    "height": 10,
+    "weight": 200,
+    "moves": [
+      "scald",
+      "water-gun",
+      "hidden-power",
+      "frustration"
+    ]
+  },
+  {
+    "name": "poliwrath",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 90
+      },
+      {
+        "status": "attack",
+        "value": 95
+      },
+      {
+        "status": "defense",
+        "value": 95
+      },
+      {
+        "status": "special-attack",
+        "value": 70
+      },
+      {
+        "status": "special-defense",
+        "value": 90
+      },
+      {
+        "status": "speed",
+        "value": 70
+      }
+    ],
+    "dex": 62,
+    "height": 13,
+    "weight": 540,
+    "moves": [
+      "drain-punch",
+      "mega-kick",
+      "drain-punch",
+      "sleep-talk"
+    ]
+  },
+  {
+    "name": "abra",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 25
+      },
+      {
+        "status": "attack",
+        "value": 20
+      },
+      {
+        "status": "defense",
+        "value": 15
+      },
+      {
+        "status": "special-attack",
+        "value": 105
+      },
+      {
+        "status": "special-defense",
+        "value": 55
+      },
+      {
+        "status": "speed",
+        "value": 90
+      }
+    ],
+    "dex": 63,
+    "height": 9,
+    "weight": 195,
+    "moves": [
+      "knock-off",
+      "barrier",
+      "grass-knot",
+      "thunder-punch"
+    ]
+  },
+  {
+    "name": "kadabra",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 40
+      },
+      {
+        "status": "attack",
+        "value": 35
+      },
+      {
+        "status": "defense",
+        "value": 30
+      },
+      {
+        "status": "special-attack",
+        "value": 120
+      },
+      {
+        "status": "special-defense",
+        "value": 70
+      },
+      {
+        "status": "speed",
+        "value": 105
+      }
+    ],
+    "dex": 64,
+    "height": 13,
+    "weight": 565,
+    "moves": [
+      "bide",
+      "counter",
+      "ally-switch",
+      "double-team"
+    ]
+  },
+  {
+    "name": "alakazam",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 55
+      },
+      {
+        "status": "attack",
+        "value": 50
+      },
+      {
+        "status": "defense",
+        "value": 45
+      },
+      {
+        "status": "special-attack",
+        "value": 135
+      },
+      {
+        "status": "special-defense",
+        "value": 95
+      },
+      {
+        "status": "speed",
+        "value": 120
+      }
+    ],
+    "dex": 65,
+    "height": 15,
+    "weight": 480,
+    "moves": [
+      "encore",
+      "sunny-day",
+      "calm-mind",
+      "focus-punch"
+    ]
+  },
+  {
+    "name": "machop",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 70
+      },
+      {
+        "status": "attack",
+        "value": 80
+      },
+      {
+        "status": "defense",
+        "value": 50
+      },
+      {
+        "status": "special-attack",
+        "value": 35
+      },
+      {
+        "status": "special-defense",
+        "value": 35
+      },
+      {
+        "status": "speed",
+        "value": 35
+      }
+    ],
+    "dex": 66,
+    "height": 8,
+    "weight": 195,
+    "moves": [
+      "light-screen",
+      "focus-punch",
+      "take-down",
+      "encore"
+    ]
+  },
+  {
+    "name": "machoke",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 80
+      },
+      {
+        "status": "attack",
+        "value": 100
+      },
+      {
+        "status": "defense",
+        "value": 70
+      },
+      {
+        "status": "special-attack",
+        "value": 50
+      },
+      {
+        "status": "special-defense",
+        "value": 60
+      },
+      {
+        "status": "speed",
+        "value": 45
+      }
+    ],
+    "dex": 67,
+    "height": 15,
+    "weight": 705,
+    "moves": [
+      "confide",
+      "confide",
+      "focus-punch",
+      "confide"
+    ]
+  },
+  {
+    "name": "machamp",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 90
+      },
+      {
+        "status": "attack",
+        "value": 130
+      },
+      {
+        "status": "defense",
+        "value": 80
+      },
+      {
+        "status": "special-attack",
+        "value": 65
+      },
+      {
+        "status": "special-defense",
+        "value": 85
+      },
+      {
+        "status": "speed",
+        "value": 55
+      }
+    ],
+    "dex": 68,
+    "height": 16,
+    "weight": 1300,
+    "moves": [
+      "body-slam",
+      "rock-slide",
+      "earthquake",
+      "secret-power"
+    ]
+  },
+  {
+    "name": "bellsprout",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 50
+      },
+      {
+        "status": "attack",
+        "value": 75
+      },
+      {
+        "status": "defense",
+        "value": 35
+      },
+      {
+        "status": "special-attack",
+        "value": 70
+      },
+      {
+        "status": "special-defense",
+        "value": 30
+      },
+      {
+        "status": "speed",
+        "value": 40
+      }
+    ],
+    "dex": 69,
+    "height": 7,
+    "weight": 40,
+    "moves": [
+      "sleep-talk",
+      "sucker-punch",
+      "facade",
+      "tickle"
+    ]
+  },
+  {
+    "name": "weepinbell",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 90
+      },
+      {
+        "status": "defense",
+        "value": 50
+      },
+      {
+        "status": "special-attack",
+        "value": 85
+      },
+      {
+        "status": "special-defense",
+        "value": 45
+      },
+      {
+        "status": "speed",
+        "value": 55
+      }
+    ],
+    "dex": 70,
+    "height": 10,
+    "weight": 64,
+    "moves": [
+      "round",
+      "rage",
+      "flash",
+      "substitute"
+    ]
+  },
+  {
+    "name": "victreebel",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 80
+      },
+      {
+        "status": "attack",
+        "value": 105
+      },
+      {
+        "status": "defense",
+        "value": 65
+      },
+      {
+        "status": "special-attack",
+        "value": 100
+      },
+      {
+        "status": "special-defense",
+        "value": 70
+      },
+      {
+        "status": "speed",
+        "value": 70
+      }
+    ],
+    "dex": 71,
+    "height": 17,
+    "weight": 155,
+    "moves": [
+      "razor-leaf",
+      "stockpile",
+      "double-team",
+      "bug-bite"
+    ]
+  },
+  {
+    "name": "tentacool",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 40
+      },
+      {
+        "status": "attack",
+        "value": 40
+      },
+      {
+        "status": "defense",
+        "value": 35
+      },
+      {
+        "status": "special-attack",
+        "value": 50
+      },
+      {
+        "status": "special-defense",
+        "value": 100
+      },
+      {
+        "status": "speed",
+        "value": 70
+      }
+    ],
+    "dex": 72,
+    "height": 9,
+    "weight": 455,
+    "moves": [
+      "reflect",
+      "mimic",
+      "brine",
+      "double-team"
+    ]
+  },
+  {
+    "name": "tentacruel",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 80
+      },
+      {
+        "status": "attack",
+        "value": 70
+      },
+      {
+        "status": "defense",
+        "value": 65
+      },
+      {
+        "status": "special-attack",
+        "value": 80
+      },
+      {
+        "status": "special-defense",
+        "value": 120
+      },
+      {
+        "status": "speed",
+        "value": 100
+      }
+    ],
+    "dex": 73,
+    "height": 16,
+    "weight": 550,
+    "moves": [
+      "blizzard",
+      "attract",
+      "dazzling-gleam",
+      "poison-sting"
+    ]
+  },
+  {
+    "name": "geodude",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 40
+      },
+      {
+        "status": "attack",
+        "value": 80
+      },
+      {
+        "status": "defense",
+        "value": 100
+      },
+      {
+        "status": "special-attack",
+        "value": 30
+      },
+      {
+        "status": "special-defense",
+        "value": 30
+      },
+      {
+        "status": "speed",
+        "value": 20
+      }
+    ],
+    "dex": 74,
+    "height": 4,
+    "weight": 200,
+    "moves": [
+      "captivate",
+      "stealth-rock",
+      "dynamic-punch",
+      "superpower"
+    ]
+  },
+  {
+    "name": "graveler",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 55
+      },
+      {
+        "status": "attack",
+        "value": 95
+      },
+      {
+        "status": "defense",
+        "value": 115
+      },
+      {
+        "status": "special-attack",
+        "value": 45
+      },
+      {
+        "status": "special-defense",
+        "value": 45
+      },
+      {
+        "status": "speed",
+        "value": 35
+      }
+    ],
+    "dex": 75,
+    "height": 10,
+    "weight": 1050,
+    "moves": [
+      "rock-throw",
+      "rock-smash",
+      "rock-smash",
+      "strength"
+    ]
+  },
+  {
+    "name": "golem",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 80
+      },
+      {
+        "status": "attack",
+        "value": 120
+      },
+      {
+        "status": "defense",
+        "value": 130
+      },
+      {
+        "status": "special-attack",
+        "value": 55
+      },
+      {
+        "status": "special-defense",
+        "value": 65
+      },
+      {
+        "status": "speed",
+        "value": 45
+      }
+    ],
+    "dex": 76,
+    "height": 14,
+    "weight": 3000,
+    "moves": [
+      "return",
+      "strength",
+      "rock-climb",
+      "tackle"
+    ]
+  },
+  {
+    "name": "ponyta",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 50
+      },
+      {
+        "status": "attack",
+        "value": 85
+      },
+      {
+        "status": "defense",
+        "value": 55
+      },
+      {
+        "status": "special-attack",
+        "value": 65
+      },
+      {
+        "status": "special-defense",
+        "value": 65
+      },
+      {
+        "status": "speed",
+        "value": 90
+      }
+    ],
+    "dex": 77,
+    "height": 10,
+    "weight": 300,
+    "moves": [
+      "round",
+      "fire-spin",
+      "wild-charge",
+      "double-edge"
+    ]
+  },
+  {
+    "name": "rapidash",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 100
+      },
+      {
+        "status": "defense",
+        "value": 70
+      },
+      {
+        "status": "special-attack",
+        "value": 80
+      },
+      {
+        "status": "special-defense",
+        "value": 80
+      },
+      {
+        "status": "speed",
+        "value": 105
+      }
+    ],
+    "dex": 78,
+    "height": 17,
+    "weight": 950,
+    "moves": [
+      "sunny-day",
+      "fire-blast",
+      "facade",
+      "tackle"
+    ]
+  },
+  {
+    "name": "slowpoke",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 90
+      },
+      {
+        "status": "attack",
+        "value": 65
+      },
+      {
+        "status": "defense",
+        "value": 65
+      },
+      {
+        "status": "special-attack",
+        "value": 40
+      },
+      {
+        "status": "special-defense",
+        "value": 40
+      },
+      {
+        "status": "speed",
+        "value": 15
+      }
+    ],
+    "dex": 79,
+    "height": 12,
+    "weight": 360,
+    "moves": [
+      "return",
+      "rage",
+      "zen-headbutt",
+      "growl"
+    ]
+  },
+  {
+    "name": "slowbro",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 95
+      },
+      {
+        "status": "attack",
+        "value": 75
+      },
+      {
+        "status": "defense",
+        "value": 110
+      },
+      {
+        "status": "special-attack",
+        "value": 100
+      },
+      {
+        "status": "special-defense",
+        "value": 80
+      },
+      {
+        "status": "speed",
+        "value": 30
+      }
+    ],
+    "dex": 80,
+    "height": 16,
+    "weight": 785,
+    "moves": [
+      "recycle",
+      "rest",
+      "brick-break",
+      "mud-shot"
+    ]
+  },
+  {
+    "name": "magnemite",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel",
+          "url": "https://pokeapi.co/api/v2/type/9/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 25
+      },
+      {
+        "status": "attack",
+        "value": 35
+      },
+      {
+        "status": "defense",
+        "value": 70
+      },
+      {
+        "status": "special-attack",
+        "value": 95
+      },
+      {
+        "status": "special-defense",
+        "value": 55
+      },
+      {
+        "status": "speed",
+        "value": 45
+      }
+    ],
+    "dex": 81,
+    "height": 3,
+    "weight": 60,
+    "moves": [
+      "substitute",
+      "charge-beam",
+      "rollout",
+      "volt-switch"
+    ]
+  },
+  {
+    "name": "magneton",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel",
+          "url": "https://pokeapi.co/api/v2/type/9/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 50
+      },
+      {
+        "status": "attack",
+        "value": 60
+      },
+      {
+        "status": "defense",
+        "value": 95
+      },
+      {
+        "status": "special-attack",
+        "value": 120
+      },
+      {
+        "status": "special-defense",
+        "value": 70
+      },
+      {
+        "status": "speed",
+        "value": 70
+      }
+    ],
+    "dex": 82,
+    "height": 10,
+    "weight": 600,
+    "moves": [
+      "magnet-rise",
+      "explosion",
+      "signal-beam",
+      "electroweb"
+    ]
+  },
+  {
+    "name": "farfetchd",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 52
+      },
+      {
+        "status": "attack",
+        "value": 90
+      },
+      {
+        "status": "defense",
+        "value": 55
+      },
+      {
+        "status": "special-attack",
+        "value": 58
+      },
+      {
+        "status": "special-defense",
+        "value": 62
+      },
+      {
+        "status": "speed",
+        "value": 60
+      }
+    ],
+    "dex": 83,
+    "height": 8,
+    "weight": 150,
+    "moves": [
+      "fury-attack",
+      "detect",
+      "leaf-blade",
+      "double-team"
+    ]
+  },
+  {
+    "name": "doduo",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 35
+      },
+      {
+        "status": "attack",
+        "value": 85
+      },
+      {
+        "status": "defense",
+        "value": 45
+      },
+      {
+        "status": "special-attack",
+        "value": 35
+      },
+      {
+        "status": "special-defense",
+        "value": 35
+      },
+      {
+        "status": "speed",
+        "value": 75
+      }
+    ],
+    "dex": 84,
+    "height": 14,
+    "weight": 392,
+    "moves": [
+      "assurance",
+      "rage",
+      "quick-attack",
+      "growl"
+    ]
+  },
+  {
+    "name": "dodrio",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 60
+      },
+      {
+        "status": "attack",
+        "value": 110
+      },
+      {
+        "status": "defense",
+        "value": 70
+      },
+      {
+        "status": "special-attack",
+        "value": 60
+      },
+      {
+        "status": "special-defense",
+        "value": 60
+      },
+      {
+        "status": "speed",
+        "value": 110
+      }
+    ],
+    "dex": 85,
+    "height": 18,
+    "weight": 852,
+    "moves": [
+      "sky-attack",
+      "secret-power",
+      "snore",
+      "round"
+    ]
+  },
+  {
+    "name": "seel",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 45
+      },
+      {
+        "status": "defense",
+        "value": 55
+      },
+      {
+        "status": "special-attack",
+        "value": 45
+      },
+      {
+        "status": "special-defense",
+        "value": 70
+      },
+      {
+        "status": "speed",
+        "value": 45
+      }
+    ],
+    "dex": 86,
+    "height": 11,
+    "weight": 900,
+    "moves": [
+      "skull-bash",
+      "natural-gift",
+      "rest",
+      "ice-shard"
+    ]
+  },
+  {
+    "name": "dewgong",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ice",
+          "url": "https://pokeapi.co/api/v2/type/15/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 90
+      },
+      {
+        "status": "attack",
+        "value": 70
+      },
+      {
+        "status": "defense",
+        "value": 80
+      },
+      {
+        "status": "special-attack",
+        "value": 70
+      },
+      {
+        "status": "special-defense",
+        "value": 95
+      },
+      {
+        "status": "speed",
+        "value": 70
+      }
+    ],
+    "dex": 87,
+    "height": 17,
+    "weight": 1200,
+    "moves": [
+      "bubble-beam",
+      "headbutt",
+      "secret-power",
+      "rain-dance"
+    ]
+  },
+  {
+    "name": "grimer",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 80
+      },
+      {
+        "status": "attack",
+        "value": 80
+      },
+      {
+        "status": "defense",
+        "value": 50
+      },
+      {
+        "status": "special-attack",
+        "value": 40
+      },
+      {
+        "status": "special-defense",
+        "value": 50
+      },
+      {
+        "status": "speed",
+        "value": 25
+      }
+    ],
+    "dex": 88,
+    "height": 9,
+    "weight": 300,
+    "moves": [
+      "zen-headbutt",
+      "sludge",
+      "confuse-ray",
+      "shadow-sneak"
+    ]
+  },
+  {
+    "name": "muk",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 105
+      },
+      {
+        "status": "attack",
+        "value": 105
+      },
+      {
+        "status": "defense",
+        "value": 75
+      },
+      {
+        "status": "special-attack",
+        "value": 65
+      },
+      {
+        "status": "special-defense",
+        "value": 100
+      },
+      {
+        "status": "speed",
+        "value": 50
+      }
+    ],
+    "dex": 89,
+    "height": 12,
+    "weight": 300,
+    "moves": [
+      "explosion",
+      "dig",
+      "natural-gift",
+      "snore"
+    ]
+  },
+  {
+    "name": "shellder",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 30
+      },
+      {
+        "status": "attack",
+        "value": 65
+      },
+      {
+        "status": "defense",
+        "value": 100
+      },
+      {
+        "status": "special-attack",
+        "value": 45
+      },
+      {
+        "status": "special-defense",
+        "value": 25
+      },
+      {
+        "status": "speed",
+        "value": 40
+      }
+    ],
+    "dex": 90,
+    "height": 3,
+    "weight": 40,
+    "moves": [
+      "toxic-spikes",
+      "confide",
+      "liquidation",
+      "ice-beam"
+    ]
+  },
+  {
+    "name": "cloyster",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ice",
+          "url": "https://pokeapi.co/api/v2/type/15/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 50
+      },
+      {
+        "status": "attack",
+        "value": 95
+      },
+      {
+        "status": "defense",
+        "value": 180
+      },
+      {
+        "status": "special-attack",
+        "value": 85
+      },
+      {
+        "status": "special-defense",
+        "value": 45
+      },
+      {
+        "status": "speed",
+        "value": 70
+      }
+    ],
+    "dex": 91,
+    "height": 15,
+    "weight": 1325,
+    "moves": [
+      "aurora-beam",
+      "liquidation",
+      "hyper-beam",
+      "body-slam"
+    ]
+  },
+  {
+    "name": "gastly",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ghost",
+          "url": "https://pokeapi.co/api/v2/type/8/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 30
+      },
+      {
+        "status": "attack",
+        "value": 35
+      },
+      {
+        "status": "defense",
+        "value": 30
+      },
+      {
+        "status": "special-attack",
+        "value": 100
+      },
+      {
+        "status": "special-defense",
+        "value": 35
+      },
+      {
+        "status": "speed",
+        "value": 80
+      }
+    ],
+    "dex": 92,
+    "height": 13,
+    "weight": 1,
+    "moves": [
+      "hypnosis",
+      "return",
+      "rest",
+      "perish-song"
+    ]
+  },
+  {
+    "name": "haunter",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ghost",
+          "url": "https://pokeapi.co/api/v2/type/8/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 45
+      },
+      {
+        "status": "attack",
+        "value": 50
+      },
+      {
+        "status": "defense",
+        "value": 45
+      },
+      {
+        "status": "special-attack",
+        "value": 115
+      },
+      {
+        "status": "special-defense",
+        "value": 55
+      },
+      {
+        "status": "speed",
+        "value": 95
+      }
+    ],
+    "dex": 93,
+    "height": 16,
+    "weight": 1,
+    "moves": [
+      "toxic-spikes",
+      "destiny-bond",
+      "icy-wind",
+      "bide"
+    ]
+  },
+  {
+    "name": "gengar",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ghost",
+          "url": "https://pokeapi.co/api/v2/type/8/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 60
+      },
+      {
+        "status": "attack",
+        "value": 65
+      },
+      {
+        "status": "defense",
+        "value": 60
+      },
+      {
+        "status": "special-attack",
+        "value": 130
+      },
+      {
+        "status": "special-defense",
+        "value": 75
+      },
+      {
+        "status": "speed",
+        "value": 110
+      }
+    ],
+    "dex": 94,
+    "height": 15,
+    "weight": 405,
+    "moves": [
+      "infestation",
+      "destiny-bond",
+      "destiny-bond",
+      "dream-eater"
+    ]
+  },
+  {
+    "name": "onix",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 35
+      },
+      {
+        "status": "attack",
+        "value": 45
+      },
+      {
+        "status": "defense",
+        "value": 160
+      },
+      {
+        "status": "special-attack",
+        "value": 30
+      },
+      {
+        "status": "special-defense",
+        "value": 45
+      },
+      {
+        "status": "speed",
+        "value": 70
+      }
+    ],
+    "dex": 95,
+    "height": 88,
+    "weight": 2100,
+    "moves": [
+      "attract",
+      "psych-up",
+      "dragon-breath",
+      "rage"
+    ]
+  },
+  {
+    "name": "drowzee",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 60
+      },
+      {
+        "status": "attack",
+        "value": 48
+      },
+      {
+        "status": "defense",
+        "value": 45
+      },
+      {
+        "status": "special-attack",
+        "value": 43
+      },
+      {
+        "status": "special-defense",
+        "value": 90
+      },
+      {
+        "status": "speed",
+        "value": 42
+      }
+    ],
+    "dex": 96,
+    "height": 10,
+    "weight": 324,
+    "moves": [
+      "double-team",
+      "dream-eater",
+      "flatter",
+      "fling"
+    ]
+  },
+  {
+    "name": "hypno",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 85
+      },
+      {
+        "status": "attack",
+        "value": 73
+      },
+      {
+        "status": "defense",
+        "value": 70
+      },
+      {
+        "status": "special-attack",
+        "value": 73
+      },
+      {
+        "status": "special-defense",
+        "value": 115
+      },
+      {
+        "status": "speed",
+        "value": 67
+      }
+    ],
+    "dex": 97,
+    "height": 16,
+    "weight": 756,
+    "moves": [
+      "captivate",
+      "mega-kick",
+      "ally-switch",
+      "rest"
+    ]
+  },
+  {
+    "name": "krabby",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 30
+      },
+      {
+        "status": "attack",
+        "value": 105
+      },
+      {
+        "status": "defense",
+        "value": 90
+      },
+      {
+        "status": "special-attack",
+        "value": 25
+      },
+      {
+        "status": "special-defense",
+        "value": 25
+      },
+      {
+        "status": "speed",
+        "value": 50
+      }
+    ],
+    "dex": 98,
+    "height": 4,
+    "weight": 65,
+    "moves": [
+      "rain-dance",
+      "frustration",
+      "icy-wind",
+      "attract"
+    ]
+  },
+  {
+    "name": "kingler",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 55
+      },
+      {
+        "status": "attack",
+        "value": 130
+      },
+      {
+        "status": "defense",
+        "value": 115
+      },
+      {
+        "status": "special-attack",
+        "value": 50
+      },
+      {
+        "status": "special-defense",
+        "value": 50
+      },
+      {
+        "status": "speed",
+        "value": 75
+      }
+    ],
+    "dex": 99,
+    "height": 13,
+    "weight": 600,
+    "moves": [
+      "water-pulse",
+      "headbutt",
+      "bubble-beam",
+      "knock-off"
+    ]
+  },
+  {
+    "name": "voltorb",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 40
+      },
+      {
+        "status": "attack",
+        "value": 30
+      },
+      {
+        "status": "defense",
+        "value": 50
+      },
+      {
+        "status": "special-attack",
+        "value": 55
+      },
+      {
+        "status": "special-defense",
+        "value": 55
+      },
+      {
+        "status": "speed",
+        "value": 100
+      }
+    ],
+    "dex": 100,
+    "height": 5,
+    "weight": 104,
+    "moves": [
+      "sucker-punch",
+      "spark",
+      "protect",
+      "take-down"
+    ]
+  },
+  {
+    "name": "electrode",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 60
+      },
+      {
+        "status": "attack",
+        "value": 50
+      },
+      {
+        "status": "defense",
+        "value": 70
+      },
+      {
+        "status": "special-attack",
+        "value": 80
+      },
+      {
+        "status": "special-defense",
+        "value": 80
+      },
+      {
+        "status": "speed",
+        "value": 150
+      }
+    ],
+    "dex": 101,
+    "height": 12,
+    "weight": 666,
+    "moves": [
+      "helping-hand",
+      "thunder-shock",
+      "volt-switch",
+      "reflect"
+    ]
+  },
+  {
+    "name": "exeggcute",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 60
+      },
+      {
+        "status": "attack",
+        "value": 40
+      },
+      {
+        "status": "defense",
+        "value": 80
+      },
+      {
+        "status": "special-attack",
+        "value": 60
+      },
+      {
+        "status": "special-defense",
+        "value": 45
+      },
+      {
+        "status": "speed",
+        "value": 40
+      }
+    ],
+    "dex": 102,
+    "height": 4,
+    "weight": 25,
+    "moves": [
+      "skill-swap",
+      "seed-bomb",
+      "hypnosis",
+      "light-screen"
+    ]
+  },
+  {
+    "name": "exeggutor",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 95
+      },
+      {
+        "status": "attack",
+        "value": 95
+      },
+      {
+        "status": "defense",
+        "value": 85
+      },
+      {
+        "status": "special-attack",
+        "value": 125
+      },
+      {
+        "status": "special-defense",
+        "value": 75
+      },
+      {
+        "status": "speed",
+        "value": 55
+      }
+    ],
+    "dex": 103,
+    "height": 20,
+    "weight": 1200,
+    "moves": [
+      "grass-knot",
+      "zen-headbutt",
+      "nature-power",
+      "seed-bomb"
+    ]
+  },
+  {
+    "name": "cubone",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 50
+      },
+      {
+        "status": "attack",
+        "value": 50
+      },
+      {
+        "status": "defense",
+        "value": 95
+      },
+      {
+        "status": "special-attack",
+        "value": 40
+      },
+      {
+        "status": "special-defense",
+        "value": 50
+      },
+      {
+        "status": "speed",
+        "value": 35
+      }
+    ],
+    "dex": 104,
+    "height": 4,
+    "weight": 65,
+    "moves": [
+      "thief",
+      "bulldoze",
+      "earth-power",
+      "ice-beam"
+    ]
+  },
+  {
+    "name": "marowak",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 60
+      },
+      {
+        "status": "attack",
+        "value": 80
+      },
+      {
+        "status": "defense",
+        "value": 110
+      },
+      {
+        "status": "special-attack",
+        "value": 50
+      },
+      {
+        "status": "special-defense",
+        "value": 80
+      },
+      {
+        "status": "speed",
+        "value": 45
+      }
+    ],
+    "dex": 105,
+    "height": 10,
+    "weight": 450,
+    "moves": [
+      "bonemerang",
+      "captivate",
+      "focus-blast",
+      "mega-kick"
+    ]
+  },
+  {
+    "name": "hitmonlee",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 50
+      },
+      {
+        "status": "attack",
+        "value": 120
+      },
+      {
+        "status": "defense",
+        "value": 53
+      },
+      {
+        "status": "special-attack",
+        "value": 35
+      },
+      {
+        "status": "special-defense",
+        "value": 110
+      },
+      {
+        "status": "speed",
+        "value": 87
+      }
+    ],
+    "dex": 106,
+    "height": 15,
+    "weight": 498,
+    "moves": [
+      "reversal",
+      "bulk-up",
+      "attract",
+      "body-slam"
+    ]
+  },
+  {
+    "name": "hitmonchan",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 50
+      },
+      {
+        "status": "attack",
+        "value": 105
+      },
+      {
+        "status": "defense",
+        "value": 79
+      },
+      {
+        "status": "special-attack",
+        "value": 35
+      },
+      {
+        "status": "special-defense",
+        "value": 110
+      },
+      {
+        "status": "speed",
+        "value": 76
+      }
+    ],
+    "dex": 107,
+    "height": 14,
+    "weight": 502,
+    "moves": [
+      "ice-punch",
+      "dizzy-punch",
+      "counter",
+      "uproar"
+    ]
+  },
+  {
+    "name": "lickitung",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 90
+      },
+      {
+        "status": "attack",
+        "value": 55
+      },
+      {
+        "status": "defense",
+        "value": 75
+      },
+      {
+        "status": "special-attack",
+        "value": 60
+      },
+      {
+        "status": "special-defense",
+        "value": 75
+      },
+      {
+        "status": "speed",
+        "value": 30
+      }
+    ],
+    "dex": 108,
+    "height": 12,
+    "weight": 655,
+    "moves": [
+      "retaliate",
+      "sleep-talk",
+      "rock-smash",
+      "knock-off"
+    ]
+  },
+  {
+    "name": "koffing",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 40
+      },
+      {
+        "status": "attack",
+        "value": 65
+      },
+      {
+        "status": "defense",
+        "value": 95
+      },
+      {
+        "status": "special-attack",
+        "value": 60
+      },
+      {
+        "status": "special-defense",
+        "value": 45
+      },
+      {
+        "status": "speed",
+        "value": 35
+      }
+    ],
+    "dex": 109,
+    "height": 6,
+    "weight": 10,
+    "moves": [
+      "destiny-bond",
+      "will-o-wisp",
+      "curse",
+      "torment"
+    ]
+  },
+  {
+    "name": "weezing",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 90
+      },
+      {
+        "status": "defense",
+        "value": 120
+      },
+      {
+        "status": "special-attack",
+        "value": 85
+      },
+      {
+        "status": "special-defense",
+        "value": 70
+      },
+      {
+        "status": "speed",
+        "value": 60
+      }
+    ],
+    "dex": 110,
+    "height": 12,
+    "weight": 95,
+    "moves": [
+      "destiny-bond",
+      "toxic-spikes",
+      "gyro-ball",
+      "screech"
+    ]
+  },
+  {
+    "name": "rhyhorn",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 80
+      },
+      {
+        "status": "attack",
+        "value": 85
+      },
+      {
+        "status": "defense",
+        "value": 95
+      },
+      {
+        "status": "special-attack",
+        "value": 30
+      },
+      {
+        "status": "special-defense",
+        "value": 30
+      },
+      {
+        "status": "speed",
+        "value": 25
+      }
+    ],
+    "dex": 111,
+    "height": 10,
+    "weight": 1150,
+    "moves": [
+      "swords-dance",
+      "earthquake",
+      "frustration",
+      "spite"
+    ]
+  },
+  {
+    "name": "rhydon",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 105
+      },
+      {
+        "status": "attack",
+        "value": 130
+      },
+      {
+        "status": "defense",
+        "value": 120
+      },
+      {
+        "status": "special-attack",
+        "value": 45
+      },
+      {
+        "status": "special-defense",
+        "value": 45
+      },
+      {
+        "status": "speed",
+        "value": 40
+      }
+    ],
+    "dex": 112,
+    "height": 19,
+    "weight": 1200,
+    "moves": [
+      "thunder",
+      "heavy-slam",
+      "iron-tail",
+      "horn-drill"
+    ]
+  },
+  {
+    "name": "chansey",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 250
+      },
+      {
+        "status": "attack",
+        "value": 5
+      },
+      {
+        "status": "defense",
+        "value": 5
+      },
+      {
+        "status": "special-attack",
+        "value": 35
+      },
+      {
+        "status": "special-defense",
+        "value": 105
+      },
+      {
+        "status": "speed",
+        "value": 50
+      }
+    ],
+    "dex": 113,
+    "height": 11,
+    "weight": 346,
+    "moves": [
+      "swift",
+      "thunder-punch",
+      "double-edge",
+      "snowscape"
+    ]
+  },
+  {
+    "name": "tangela",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 55
+      },
+      {
+        "status": "defense",
+        "value": 115
+      },
+      {
+        "status": "special-attack",
+        "value": 100
+      },
+      {
+        "status": "special-defense",
+        "value": 40
+      },
+      {
+        "status": "speed",
+        "value": 60
+      }
+    ],
+    "dex": 114,
+    "height": 10,
+    "weight": 350,
+    "moves": [
+      "ingrain",
+      "flash",
+      "sleep-powder",
+      "constrict"
+    ]
+  },
+  {
+    "name": "kangaskhan",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 105
+      },
+      {
+        "status": "attack",
+        "value": 95
+      },
+      {
+        "status": "defense",
+        "value": 80
+      },
+      {
+        "status": "special-attack",
+        "value": 40
+      },
+      {
+        "status": "special-defense",
+        "value": 80
+      },
+      {
+        "status": "speed",
+        "value": 90
+      }
+    ],
+    "dex": 115,
+    "height": 22,
+    "weight": 800,
+    "moves": [
+      "last-resort",
+      "water-gun",
+      "ice-beam",
+      "natural-gift"
+    ]
+  },
+  {
+    "name": "horsea",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 30
+      },
+      {
+        "status": "attack",
+        "value": 40
+      },
+      {
+        "status": "defense",
+        "value": 70
+      },
+      {
+        "status": "special-attack",
+        "value": 70
+      },
+      {
+        "status": "special-defense",
+        "value": 25
+      },
+      {
+        "status": "speed",
+        "value": 60
+      }
+    ],
+    "dex": 116,
+    "height": 4,
+    "weight": 80,
+    "moves": [
+      "bubble-beam",
+      "mimic",
+      "flail",
+      "swagger"
+    ]
+  },
+  {
+    "name": "seadra",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 55
+      },
+      {
+        "status": "attack",
+        "value": 65
+      },
+      {
+        "status": "defense",
+        "value": 95
+      },
+      {
+        "status": "special-attack",
+        "value": 95
+      },
+      {
+        "status": "special-defense",
+        "value": 45
+      },
+      {
+        "status": "speed",
+        "value": 85
+      }
+    ],
+    "dex": 117,
+    "height": 12,
+    "weight": 250,
+    "moves": [
+      "flash-cannon",
+      "focus-energy",
+      "blizzard",
+      "curse"
+    ]
+  },
+  {
+    "name": "goldeen",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 45
+      },
+      {
+        "status": "attack",
+        "value": 67
+      },
+      {
+        "status": "defense",
+        "value": 60
+      },
+      {
+        "status": "special-attack",
+        "value": 35
+      },
+      {
+        "status": "special-defense",
+        "value": 50
+      },
+      {
+        "status": "speed",
+        "value": 63
+      }
+    ],
+    "dex": 118,
+    "height": 6,
+    "weight": 150,
+    "moves": [
+      "substitute",
+      "ice-beam",
+      "scald",
+      "whirlpool"
+    ]
+  },
+  {
+    "name": "seaking",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 80
+      },
+      {
+        "status": "attack",
+        "value": 92
+      },
+      {
+        "status": "defense",
+        "value": 65
+      },
+      {
+        "status": "special-attack",
+        "value": 65
+      },
+      {
+        "status": "special-defense",
+        "value": 80
+      },
+      {
+        "status": "speed",
+        "value": 68
+      }
+    ],
+    "dex": 119,
+    "height": 13,
+    "weight": 390,
+    "moves": [
+      "mud-shot",
+      "round",
+      "giga-impact",
+      "aqua-ring"
+    ]
+  },
+  {
+    "name": "staryu",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 30
+      },
+      {
+        "status": "attack",
+        "value": 45
+      },
+      {
+        "status": "defense",
+        "value": 55
+      },
+      {
+        "status": "special-attack",
+        "value": 70
+      },
+      {
+        "status": "special-defense",
+        "value": 55
+      },
+      {
+        "status": "speed",
+        "value": 85
+      }
+    ],
+    "dex": 120,
+    "height": 8,
+    "weight": 345,
+    "moves": [
+      "waterfall",
+      "icy-wind",
+      "headbutt",
+      "secret-power"
+    ]
+  },
+  {
+    "name": "starmie",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 60
+      },
+      {
+        "status": "attack",
+        "value": 75
+      },
+      {
+        "status": "defense",
+        "value": 85
+      },
+      {
+        "status": "special-attack",
+        "value": 100
+      },
+      {
+        "status": "special-defense",
+        "value": 85
+      },
+      {
+        "status": "speed",
+        "value": 115
+      }
+    ],
+    "dex": 121,
+    "height": 11,
+    "weight": 800,
+    "moves": [
+      "rapid-spin",
+      "flash-cannon",
+      "thunder",
+      "confide"
+    ]
+  },
+  {
+    "name": "mr-mime",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 40
+      },
+      {
+        "status": "attack",
+        "value": 45
+      },
+      {
+        "status": "defense",
+        "value": 65
+      },
+      {
+        "status": "special-attack",
+        "value": 100
+      },
+      {
+        "status": "special-defense",
+        "value": 120
+      },
+      {
+        "status": "speed",
+        "value": 90
+      }
+    ],
+    "dex": 122,
+    "height": 13,
+    "weight": 545,
+    "moves": [
+      "psyshock",
+      "thunder-punch",
+      "frustration",
+      "ice-punch"
+    ]
+  },
+  {
+    "name": "scyther",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 70
+      },
+      {
+        "status": "attack",
+        "value": 110
+      },
+      {
+        "status": "defense",
+        "value": 80
+      },
+      {
+        "status": "special-attack",
+        "value": 55
+      },
+      {
+        "status": "special-defense",
+        "value": 80
+      },
+      {
+        "status": "speed",
+        "value": 105
+      }
+    ],
+    "dex": 123,
+    "height": 15,
+    "weight": 560,
+    "moves": [
+      "air-slash",
+      "helping-hand",
+      "steel-wing",
+      "air-slash"
+    ]
+  },
+  {
+    "name": "jynx",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ice",
+          "url": "https://pokeapi.co/api/v2/type/15/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 50
+      },
+      {
+        "status": "defense",
+        "value": 35
+      },
+      {
+        "status": "special-attack",
+        "value": 115
+      },
+      {
+        "status": "special-defense",
+        "value": 95
+      },
+      {
+        "status": "speed",
+        "value": 95
+      }
+    ],
+    "dex": 124,
+    "height": 14,
+    "weight": 406,
+    "moves": [
+      "sing",
+      "payback",
+      "icy-wind",
+      "nasty-plot"
+    ]
+  },
+  {
+    "name": "electabuzz",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 83
+      },
+      {
+        "status": "defense",
+        "value": 57
+      },
+      {
+        "status": "special-attack",
+        "value": 95
+      },
+      {
+        "status": "special-defense",
+        "value": 85
+      },
+      {
+        "status": "speed",
+        "value": 105
+      }
+    ],
+    "dex": 125,
+    "height": 11,
+    "weight": 300,
+    "moves": [
+      "low-kick",
+      "mimic",
+      "skull-bash",
+      "secret-power"
+    ]
+  },
+  {
+    "name": "magmar",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 95
+      },
+      {
+        "status": "defense",
+        "value": 57
+      },
+      {
+        "status": "special-attack",
+        "value": 100
+      },
+      {
+        "status": "special-defense",
+        "value": 85
+      },
+      {
+        "status": "speed",
+        "value": 93
+      }
+    ],
+    "dex": 126,
+    "height": 13,
+    "weight": 445,
+    "moves": [
+      "thunder-punch",
+      "focus-punch",
+      "natural-gift",
+      "curse"
+    ]
+  },
+  {
+    "name": "pinsir",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 125
+      },
+      {
+        "status": "defense",
+        "value": 100
+      },
+      {
+        "status": "special-attack",
+        "value": 55
+      },
+      {
+        "status": "special-defense",
+        "value": 70
+      },
+      {
+        "status": "speed",
+        "value": 85
+      }
+    ],
+    "dex": 127,
+    "height": 15,
+    "weight": 550,
+    "moves": [
+      "high-horsepower",
+      "fling",
+      "revenge",
+      "protect"
+    ]
+  },
+  {
+    "name": "tauros",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 75
+      },
+      {
+        "status": "attack",
+        "value": 100
+      },
+      {
+        "status": "defense",
+        "value": 95
+      },
+      {
+        "status": "special-attack",
+        "value": 40
+      },
+      {
+        "status": "special-defense",
+        "value": 70
+      },
+      {
+        "status": "speed",
+        "value": 110
+      }
+    ],
+    "dex": 128,
+    "height": 14,
+    "weight": 884,
+    "moves": [
+      "hidden-power",
+      "uproar",
+      "zen-headbutt",
+      "endeavor"
+    ]
+  },
+  {
+    "name": "magikarp",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 20
+      },
+      {
+        "status": "attack",
+        "value": 10
+      },
+      {
+        "status": "defense",
+        "value": 55
+      },
+      {
+        "status": "special-attack",
+        "value": 15
+      },
+      {
+        "status": "special-defense",
+        "value": 20
+      },
+      {
+        "status": "speed",
+        "value": 80
+      }
+    ],
+    "dex": 129,
+    "height": 9,
+    "weight": 100,
+    "moves": [
+      "tackle",
+      "flail",
+      "tackle",
+      "flail"
+    ]
+  },
+  {
+    "name": "gyarados",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 95
+      },
+      {
+        "status": "attack",
+        "value": 125
+      },
+      {
+        "status": "defense",
+        "value": 79
+      },
+      {
+        "status": "special-attack",
+        "value": 60
+      },
+      {
+        "status": "special-defense",
+        "value": 100
+      },
+      {
+        "status": "speed",
+        "value": 81
+      }
+    ],
+    "dex": 130,
+    "height": 65,
+    "weight": 2350,
+    "moves": [
+      "dragon-pulse",
+      "rain-dance",
+      "scale-shot",
+      "protect"
+    ]
+  },
+  {
+    "name": "lapras",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ice",
+          "url": "https://pokeapi.co/api/v2/type/15/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 130
+      },
+      {
+        "status": "attack",
+        "value": 85
+      },
+      {
+        "status": "defense",
+        "value": 80
+      },
+      {
+        "status": "special-attack",
+        "value": 85
+      },
+      {
+        "status": "special-defense",
+        "value": 95
+      },
+      {
+        "status": "speed",
+        "value": 60
+      }
+    ],
+    "dex": 131,
+    "height": 25,
+    "weight": 2200,
+    "moves": [
+      "liquidation",
+      "frustration",
+      "shock-wave",
+      "foresight"
+    ]
+  },
+  {
+    "name": "ditto",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 48
+      },
+      {
+        "status": "attack",
+        "value": 48
+      },
+      {
+        "status": "defense",
+        "value": 48
+      },
+      {
+        "status": "special-attack",
+        "value": 48
+      },
+      {
+        "status": "special-defense",
+        "value": 48
+      },
+      {
+        "status": "speed",
+        "value": 48
+      }
+    ],
+    "dex": 132,
+    "height": 3,
+    "weight": 40,
+    "moves": [
+      "transform",
+      "transform",
+      "transform",
+      "transform"
+    ]
+  },
+  {
+    "name": "eevee",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 55
+      },
+      {
+        "status": "attack",
+        "value": 55
+      },
+      {
+        "status": "defense",
+        "value": 50
+      },
+      {
+        "status": "special-attack",
+        "value": 45
+      },
+      {
+        "status": "special-defense",
+        "value": 65
+      },
+      {
+        "status": "speed",
+        "value": 55
+      }
+    ],
+    "dex": 133,
+    "height": 3,
+    "weight": 65,
+    "moves": [
+      "quick-attack",
+      "facade",
+      "return",
+      "swift"
+    ]
+  },
+  {
+    "name": "vaporeon",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 130
+      },
+      {
+        "status": "attack",
+        "value": 65
+      },
+      {
+        "status": "defense",
+        "value": 60
+      },
+      {
+        "status": "special-attack",
+        "value": 110
+      },
+      {
+        "status": "special-defense",
+        "value": 95
+      },
+      {
+        "status": "speed",
+        "value": 65
+      }
+    ],
+    "dex": 134,
+    "height": 10,
+    "weight": 290,
+    "moves": [
+      "stored-power",
+      "secret-power",
+      "haze",
+      "tera-blast"
+    ]
+  },
+  {
+    "name": "jolteon",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 65
+      },
+      {
+        "status": "defense",
+        "value": 60
+      },
+      {
+        "status": "special-attack",
+        "value": 110
+      },
+      {
+        "status": "special-defense",
+        "value": 95
+      },
+      {
+        "status": "speed",
+        "value": 130
+      }
+    ],
+    "dex": 135,
+    "height": 8,
+    "weight": 245,
+    "moves": [
+      "thunder-wave",
+      "shock-wave",
+      "snore",
+      "baton-pass"
+    ]
+  },
+  {
+    "name": "flareon",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 130
+      },
+      {
+        "status": "defense",
+        "value": 60
+      },
+      {
+        "status": "special-attack",
+        "value": 95
+      },
+      {
+        "status": "special-defense",
+        "value": 110
+      },
+      {
+        "status": "speed",
+        "value": 65
+      }
+    ],
+    "dex": 136,
+    "height": 9,
+    "weight": 250,
+    "moves": [
+      "last-resort",
+      "reflect",
+      "growl",
+      "sleep-talk"
+    ]
+  },
+  {
+    "name": "porygon",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 65
+      },
+      {
+        "status": "attack",
+        "value": 60
+      },
+      {
+        "status": "defense",
+        "value": 70
+      },
+      {
+        "status": "special-attack",
+        "value": 85
+      },
+      {
+        "status": "special-defense",
+        "value": 75
+      },
+      {
+        "status": "speed",
+        "value": 40
+      }
+    ],
+    "dex": 137,
+    "height": 8,
+    "weight": 365,
+    "moves": [
+      "gravity",
+      "power-swap",
+      "conversion-2",
+      "solar-beam"
+    ]
+  },
+  {
+    "name": "omanyte",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 35
+      },
+      {
+        "status": "attack",
+        "value": 40
+      },
+      {
+        "status": "defense",
+        "value": 100
+      },
+      {
+        "status": "special-attack",
+        "value": 90
+      },
+      {
+        "status": "special-defense",
+        "value": 55
+      },
+      {
+        "status": "speed",
+        "value": 35
+      }
+    ],
+    "dex": 138,
+    "height": 4,
+    "weight": 75,
+    "moves": [
+      "toxic",
+      "hidden-power",
+      "hydro-pump",
+      "dive"
+    ]
+  },
+  {
+    "name": "omastar",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 70
+      },
+      {
+        "status": "attack",
+        "value": 60
+      },
+      {
+        "status": "defense",
+        "value": 125
+      },
+      {
+        "status": "special-attack",
+        "value": 115
+      },
+      {
+        "status": "special-defense",
+        "value": 70
+      },
+      {
+        "status": "speed",
+        "value": 55
+      }
+    ],
+    "dex": 139,
+    "height": 10,
+    "weight": 350,
+    "moves": [
+      "submission",
+      "snore",
+      "captivate",
+      "bubble-beam"
+    ]
+  },
+  {
+    "name": "kabuto",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 30
+      },
+      {
+        "status": "attack",
+        "value": 80
+      },
+      {
+        "status": "defense",
+        "value": 90
+      },
+      {
+        "status": "special-attack",
+        "value": 55
+      },
+      {
+        "status": "special-defense",
+        "value": 45
+      },
+      {
+        "status": "speed",
+        "value": 55
+      }
+    ],
+    "dex": 140,
+    "height": 5,
+    "weight": 115,
+    "moves": [
+      "bide",
+      "giga-drain",
+      "scratch",
+      "stealth-rock"
+    ]
+  },
+  {
+    "name": "kabutops",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 60
+      },
+      {
+        "status": "attack",
+        "value": 115
+      },
+      {
+        "status": "defense",
+        "value": 105
+      },
+      {
+        "status": "special-attack",
+        "value": 65
+      },
+      {
+        "status": "special-defense",
+        "value": 70
+      },
+      {
+        "status": "speed",
+        "value": 80
+      }
+    ],
+    "dex": 141,
+    "height": 13,
+    "weight": 405,
+    "moves": [
+      "facade",
+      "confide",
+      "brick-break",
+      "skull-bash"
+    ]
+  },
+  {
+    "name": "aerodactyl",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 80
+      },
+      {
+        "status": "attack",
+        "value": 105
+      },
+      {
+        "status": "defense",
+        "value": 65
+      },
+      {
+        "status": "special-attack",
+        "value": 60
+      },
+      {
+        "status": "special-defense",
+        "value": 75
+      },
+      {
+        "status": "speed",
+        "value": 130
+      }
+    ],
+    "dex": 142,
+    "height": 18,
+    "weight": 590,
+    "moves": [
+      "facade",
+      "natural-gift",
+      "pursuit",
+      "bulldoze"
+    ]
+  },
+  {
+    "name": "snorlax",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 160
+      },
+      {
+        "status": "attack",
+        "value": 110
+      },
+      {
+        "status": "defense",
+        "value": 65
+      },
+      {
+        "status": "special-attack",
+        "value": 65
+      },
+      {
+        "status": "special-defense",
+        "value": 110
+      },
+      {
+        "status": "speed",
+        "value": 30
+      }
+    ],
+    "dex": 143,
+    "height": 21,
+    "weight": 4600,
+    "moves": [
+      "hydro-pump",
+      "hammer-arm",
+      "incinerate",
+      "frustration"
+    ]
+  },
+  {
+    "name": "articuno",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ice",
+          "url": "https://pokeapi.co/api/v2/type/15/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 90
+      },
+      {
+        "status": "attack",
+        "value": 85
+      },
+      {
+        "status": "defense",
+        "value": 100
+      },
+      {
+        "status": "special-attack",
+        "value": 95
+      },
+      {
+        "status": "special-defense",
+        "value": 125
+      },
+      {
+        "status": "speed",
+        "value": 85
+      }
+    ],
+    "dex": 144,
+    "height": 17,
+    "weight": 554,
+    "moves": [
+      "hurricane",
+      "frustration",
+      "whirlwind",
+      "sunny-day"
+    ]
+  },
+  {
+    "name": "zapdos",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 90
+      },
+      {
+        "status": "attack",
+        "value": 90
+      },
+      {
+        "status": "defense",
+        "value": 85
+      },
+      {
+        "status": "special-attack",
+        "value": 125
+      },
+      {
+        "status": "special-defense",
+        "value": 90
+      },
+      {
+        "status": "speed",
+        "value": 100
+      }
+    ],
+    "dex": 145,
+    "height": 16,
+    "weight": 526,
+    "moves": [
+      "double-team",
+      "signal-beam",
+      "roar",
+      "fly"
+    ]
+  },
+  {
+    "name": "moltres",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 90
+      },
+      {
+        "status": "attack",
+        "value": 100
+      },
+      {
+        "status": "defense",
+        "value": 90
+      },
+      {
+        "status": "special-attack",
+        "value": 125
+      },
+      {
+        "status": "special-defense",
+        "value": 85
+      },
+      {
+        "status": "speed",
+        "value": 90
+      }
+    ],
+    "dex": 146,
+    "height": 20,
+    "weight": 600,
+    "moves": [
+      "rain-dance",
+      "endure",
+      "snore",
+      "helping-hand"
+    ]
+  },
+  {
+    "name": "dratini",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon",
+          "url": "https://pokeapi.co/api/v2/type/16/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 41
+      },
+      {
+        "status": "attack",
+        "value": 64
+      },
+      {
+        "status": "defense",
+        "value": 45
+      },
+      {
+        "status": "special-attack",
+        "value": 50
+      },
+      {
+        "status": "special-defense",
+        "value": 50
+      },
+      {
+        "status": "speed",
+        "value": 50
+      }
+    ],
+    "dex": 147,
+    "height": 18,
+    "weight": 33,
+    "moves": [
+      "swift",
+      "bide",
+      "captivate",
+      "giga-impact"
+    ]
+  },
+  {
+    "name": "dragonair",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon",
+          "url": "https://pokeapi.co/api/v2/type/16/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 61
+      },
+      {
+        "status": "attack",
+        "value": 84
+      },
+      {
+        "status": "defense",
+        "value": 65
+      },
+      {
+        "status": "special-attack",
+        "value": 70
+      },
+      {
+        "status": "special-defense",
+        "value": 70
+      },
+      {
+        "status": "speed",
+        "value": 70
+      }
+    ],
+    "dex": 148,
+    "height": 40,
+    "weight": 165,
+    "moves": [
+      "rest",
+      "aqua-tail",
+      "dragon-pulse",
+      "take-down"
+    ]
+  },
+  {
+    "name": "dragonite",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon",
+          "url": "https://pokeapi.co/api/v2/type/16/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 91
+      },
+      {
+        "status": "attack",
+        "value": 134
+      },
+      {
+        "status": "defense",
+        "value": 95
+      },
+      {
+        "status": "special-attack",
+        "value": 100
+      },
+      {
+        "status": "special-defense",
+        "value": 100
+      },
+      {
+        "status": "speed",
+        "value": 80
+      }
+    ],
+    "dex": 149,
+    "height": 22,
+    "weight": 2100,
+    "moves": [
+      "icy-wind",
+      "sky-drop",
+      "fire-spin",
+      "dragon-pulse"
+    ]
+  },
+  {
+    "name": "mewtwo",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 106
+      },
+      {
+        "status": "attack",
+        "value": 110
+      },
+      {
+        "status": "defense",
+        "value": 90
+      },
+      {
+        "status": "special-attack",
+        "value": 154
+      },
+      {
+        "status": "special-defense",
+        "value": 90
+      },
+      {
+        "status": "speed",
+        "value": 130
+      }
+    ],
+    "dex": 150,
+    "height": 20,
+    "weight": 1220,
+    "moves": [
+      "mist",
+      "power-gem",
+      "detect",
+      "tri-attack"
+    ]
+  },
+  {
+    "name": "mew",
+    "type": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "status": [
+      {
+        "status": "hp",
+        "value": 100
+      },
+      {
+        "status": "attack",
+        "value": 100
+      },
+      {
+        "status": "defense",
+        "value": 100
+      },
+      {
+        "status": "special-attack",
+        "value": 100
+      },
+      {
+        "status": "special-defense",
+        "value": 100
+      },
+      {
+        "status": "speed",
+        "value": 100
+      }
+    ],
+    "dex": 151,
+    "height": 4,
+    "weight": 40,
+    "moves": [
+      "icy-wind",
+      "rock-smash",
+      "barrier",
+      "calm-mind"
+    ]
+  }
+]
